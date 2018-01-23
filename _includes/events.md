@@ -80,6 +80,11 @@
 				<td>Culemborg</td>
 			</tr>
 			<tr>
+				<td>Oct 12-14</td>
+				<td>TexelBlues</td>
+				<td>Texel</td>
+			</tr>
+			<tr>
 				<td>Oct 20</td>
 				<td>Zilst Blues</td>
 				<td>Zeelst</td>
