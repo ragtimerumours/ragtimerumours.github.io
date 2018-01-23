@@ -75,6 +75,21 @@
 				<td>Nederweert-Eind</td>
 			</tr>
 			<tr>
+				<td>Aug 25</td>
+				<td>Culemborg Blues</td>
+				<td>Culemborg</td>
+			</tr>
+			<tr>
+				<td>Oct 20</td>
+				<td>Zilst Blues</td>
+				<td>Zeelst</td>
+			</tr>
+			<tr>
+				<td>Nov 10</td>
+				<td>Blues aan Zee</td>
+				<td>Monster</td>
+			</tr>
+			<tr>
 				<td>Dec 1</td>
 				<td>De Bosuil</td>
 				<td>Weert</td>
