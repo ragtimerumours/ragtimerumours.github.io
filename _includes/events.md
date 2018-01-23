@@ -50,24 +50,34 @@
 				<td>Roermond</td>
 			</tr>
 			<tr>
-				<td>Mar 15-18</td>
-				<td>European Blues Challenge</td>
-				<td>Hell, Norway</td>
-			</tr>
-			<tr>
 				<td>Mar 3</td>
 				<td>Tinus</td>
 				<td>Panningen</td>
 			</tr>
 			<tr>
-				<td>Apr 27</td>
+				<td>Mar 15-18</td>
+				<td>European Blues Challenge</td>
+				<td>Hell, Norway</td>
+			</tr>
+			<tr>
+				<td>Apr 26-29</td>
 				<td>Tour</td>
 				<td>Norway</td>
 			</tr>
 			<tr>
 				<td>May 19</td>
-				<td>TTR in RibsenBlues</td>
+				<td>RibsenBlues</td>
 				<td>Raalte</td>
+			</tr>
+			<tr>
+				<td>Jun 16</td>
+				<td>Stokershorst</td>
+				<td>Nederweert-Eind</td>
+			</tr>
+			<tr>
+				<td>Dec 1</td>
+				<td>De Bosuil</td>
+				<td>Weert</td>
 			</tr>
 		</tbody>
 	</table>
