@@ -3,6 +3,8 @@
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
+        overflow-y: scroll;
+        height: 380px;
 	}
 
 	table {
