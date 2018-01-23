@@ -10,17 +10,18 @@
 		body {
 			-ms-overflow-style: scrollbar;
             
+            // webkit broswers scrollbar styling
             ::-webkit-scrollbar {
-            width: 7px;
-        }
-        ::-webkit-scrollbar-track {
-            background: #705A47;
-            border-radius: 10px;
-        }
-        ::-webkit-scrollbar-thumb {
-            background: #3B3330; 
-            border-radius: 10px;
-        }
+                width: 7px;
+            }
+            ::-webkit-scrollbar-track {
+                background: #ccbdaf;
+                border-radius: 10px;
+            }
+            ::-webkit-scrollbar-thumb {
+                background: #3B3330; 
+                border-radius: 10px;
+            }
 		}
 
 	// Ensures page width is always >=320px.
