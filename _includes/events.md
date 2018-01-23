@@ -10,9 +10,9 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td>Jan 7</td>
-				<td>Voor De Kunst</td>
-				<td>Roermond</td>
+				<td>Jan 5</td>
+				<td>Blues in Wijk</td>
+				<td>Wijk bij Duurstede</td>
 			</tr>
 			<tr>
 				<td>Jan 14</td>
