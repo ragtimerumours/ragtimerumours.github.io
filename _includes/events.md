@@ -94,6 +94,11 @@
 				<td>De Bosuil</td>
 				<td>Weert</td>
 			</tr>
+			<tr>
+				<td>Jan 18, 2019</td>
+				<td>De Amer</td>
+				<td>Amen</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
