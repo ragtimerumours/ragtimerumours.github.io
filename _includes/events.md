@@ -21,18 +21,33 @@
 			</tr>
 			<tr>
 				<td>Jan 16</td>
-				<td>International Blues Challenge</td>
+				<td>Tin Roof</td>
+				<td>Memphis, TN, USA</td>
+			</tr>
+			<tr>
+				<td>Jan 17</td>
+				<td>IBC Hard Rock Café</td>
+				<td>Memphis, TN, USA</td>
+			</tr>
+			<tr>
+				<td>Jan 18</td>
+				<td>IBC Hard Rock Café</td>
+				<td>Memphis, TN, USA</td>
+			</tr>
+			<tr>
+				<td>Jan 18</td>
+				<td>Ditty TV</td>
 				<td>Memphis, TN, USA</td>
 			</tr>
 			<tr>
 				<td>Mar 3</td>
-				<td>TTR bij Tinus</td>
+				<td>Tinus</td>
 				<td>Panningen</td>
 			</tr>
 			<tr>
 				<td>Apr 27</td>
-				<td>TTR in Bergen</td>
-				<td>Bergen, Norway</td>
+				<td>Tour</td>
+				<td>Norway</td>
 			</tr>
 			<tr>
 				<td>May 19</td>
