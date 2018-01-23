@@ -40,6 +40,21 @@
 				<td>Memphis, TN, USA</td>
 			</tr>
 			<tr>
+				<td>Jan 27</td>
+				<td>Brouwcafé de Vaart</td>
+				<td>Den Bosch</td>
+			</tr>
+			<tr>
+				<td>Jan 27</td>
+				<td>Sophie's pub</td>
+				<td>Roermond</td>
+			</tr>
+			<tr>
+				<td>Mar 15-18</td>
+				<td>European Blues Challenge</td>
+				<td>Hell, Norway</td>
+			</tr>
+			<tr>
 				<td>Mar 3</td>
 				<td>Tinus</td>
 				<td>Panningen</td>
