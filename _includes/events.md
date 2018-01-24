@@ -63,22 +63,17 @@
 				<td>Apr 26-29</td>
 				<td>Tour</td>
 				<td>Norway</td>
-			</tr>
-			<tr>
-				<td>May 19</td>
-				<td>RibsenBlues</td>
-				<td>Raalte</td>
-			</tr>
+						</tr>
 			<tr>
 				<td>Jun 16</td>
 				<td>Stokershorst</td>
 				<td>Nederweert-Eind</td>
 			</tr>
 			<tr>
-				<td>Aug 25</td>
-				<td>Culemborg Blues</td>
-				<td>Culemborg</td>
-						</tr>
+				<td>Jun 23</td>
+				<td>Tuinfeest TomTom</td>
+				<td>Heythuisen</td>
+			</tr>
 			<tr>
 				<td>Oct 20</td>
 				<td>Zilst Blues</td>
