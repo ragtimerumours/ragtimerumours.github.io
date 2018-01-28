@@ -49,7 +49,7 @@
 				<td>Sophie's pub</td>
 				<td>Roermond</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Mar 3</td>
 				<td>Tinus</td>
 				<td>Panningen</td>
