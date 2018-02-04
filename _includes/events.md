@@ -63,7 +63,12 @@
 				<td>Apr 26-29</td>
 				<td>Tour</td>
 				<td>Norway</td>
-						</tr>
+			</tr>
+			<tr>
+				<td>May 20</td>
+				<td>Ribs&Blues</td>
+				<td>Raalte</td>
+			</tr>
 			<tr>
 				<td>Jun 16</td>
 				<td>Stokershorst</td>
