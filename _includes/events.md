@@ -102,10 +102,3 @@
 		</tbody>
 	</table>
 </div>
-<!--Scroll to current date -->
-    <script>
-        function ScrollView () {
-            var view = document.getElementById ("view");
-            $( "#view" )[0].scrollIntoView();
-        }
-    </script>

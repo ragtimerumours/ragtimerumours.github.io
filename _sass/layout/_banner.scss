@@ -6,7 +6,7 @@
 }
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/banner1.jpg")');
+		@include vendor('background-image', 'url("../images/banner2.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -58,8 +58,7 @@
 			}
 
 			header {
-				width: 150px;
-                margin-left: 0%;
+				width: auto;
 
 				> :first-child {
 					width: auto;
@@ -139,9 +138,7 @@
 			}
 
 			> .inner {
-                header {
-				width: 120px;
-            }
+                
 				.content {
 					display: block;
 
@@ -181,7 +178,7 @@
 // Event section
 	#three {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/banner1.jpg")');
+		@include vendor('background-image', 'url("../images/banner2.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(0em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
