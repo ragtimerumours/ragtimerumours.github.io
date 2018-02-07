@@ -80,6 +80,11 @@
 				<td>Heythuisen</td>
 			</tr>
 			<tr>
+				<td>Aug 25</td>
+				<td>Culemborg Blues</td>
+				<td>Culemborg</td>
+			</tr>
+			<tr>
 				<td>Oct 20</td>
 				<td>Zilst Blues</td>
 				<td>Zeelst</td>
