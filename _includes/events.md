@@ -80,6 +80,11 @@
 				<td>Heythuisen</td>
 			</tr>
 			<tr>
+				<td>Aug 5</td>
+				<td>Onder de Platanen</td>
+				<td>Delft</td>
+			</tr>
+			<tr>
 				<td>Aug 25</td>
 				<td>Culemborg Blues</td>
 				<td>Culemborg</td>
