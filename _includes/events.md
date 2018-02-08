@@ -80,6 +80,11 @@
 				<td>Heythuisen</td>
 			</tr>
 			<tr>
+				<td>Jul 29</td>
+				<td>Brielle Blues</td>
+				<td>Brielle</td>
+			</tr>
+			<tr>
 				<td>Aug 5</td>
 				<td>Onder de Platanen</td>
 				<td>Delft</td>
