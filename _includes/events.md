@@ -75,6 +75,11 @@
 				<td>Raalte</td>
 			</tr>
 			<tr>
+				<td>May 25</td>
+				<td>EGOpop</td>
+				<td>Egchel</td>
+			</tr>
+			<tr>
 				<td>Jun 16</td>
 				<td>Stokershorst</td>
 				<td>Nederweert-Eind</td>
