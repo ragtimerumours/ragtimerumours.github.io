@@ -60,6 +60,11 @@
 				<td>Hell, Norway</td>
 			</tr>
 			<tr>
+				<td>Apr 21</td>
+				<td>Landbouwbelang</td>
+				<td>Maastricht</td>
+			</tr>
+			<tr>
 				<td>Apr 26-29</td>
 				<td>Tour</td>
 				<td>Norway</td>
