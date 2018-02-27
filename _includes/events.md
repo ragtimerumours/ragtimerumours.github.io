@@ -85,6 +85,11 @@
 				<td>Egchel</td>
 			</tr>
 			<tr>
+				<td>Jun 2</td>
+				<td>Pop on Top</td>
+				<td>Valkenburg</td>
+			</tr>
+			<tr>
 				<td>Jun 16</td>
 				<td>Stokershorst</td>
 				<td>Nederweert-Eind</td>
