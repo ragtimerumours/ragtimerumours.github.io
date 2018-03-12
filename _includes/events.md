@@ -110,6 +110,11 @@
 				<td>Delft</td>
 			</tr>
 			<tr>
+				<td>Aug 19</td>
+				<td>Sjwaampop</td>
+				<td>Swalmen</td>
+			</tr>
+			<tr>
 				<td>Aug 25</td>
 				<td>Culemborg Blues</td>
 				<td>Culemborg</td>
