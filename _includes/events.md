@@ -75,6 +75,11 @@
 				<td>Ospel</td>
 			</tr>
 			<tr>
+				<td>May 5</td>
+				<td>Bevrijdingsfestival</td>
+				<td>Roermond</td>
+			</tr>
+			<tr>
 				<td>May 20</td>
 				<td>Ribs&Blues</td>
 				<td>Raalte</td>
