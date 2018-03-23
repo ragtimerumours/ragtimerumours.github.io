@@ -96,8 +96,8 @@
 			</tr>
 			<tr>
 				<td>Jun 16</td>
-				<td>Stokershorst</td>
-				<td>Nederweert-Eind</td>
+				<td>Offenbaek Open Air</td>
+				<td>Reuver</td>
 			</tr>
 			<tr>
 				<td>Jun 23</td>
