@@ -95,11 +95,6 @@
 				<td>Valkenburg</td>
 			</tr>
 			<tr>
-				<td>Jun 16</td>
-				<td>Offenbaek Open Air</td>
-				<td>Reuver</td>
-			</tr>
-			<tr>
 				<td>Jun 23</td>
 				<td>Tuinfeest TomTom</td>
 				<td>Heythuisen</td>
