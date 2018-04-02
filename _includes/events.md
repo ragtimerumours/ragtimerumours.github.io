@@ -85,7 +85,7 @@
 				<td>Raalte</td>
 			</tr>
 			<tr>
-				<td>May 25</td>
+				<td>May 26</td>
 				<td>EGOpop</td>
 				<td>Egchel</td>
 			</tr>
