@@ -95,9 +95,19 @@
 				<td>Valkenburg</td>
 			</tr>
 			<tr>
+				<td>Jun 17</td>
+				<td>Get Together</td>
+				<td>Tegelen</td>
+			</tr>
+			<tr>
 				<td>Jun 23</td>
 				<td>Tuinfeest TomTom</td>
 				<td>Heythuisen</td>
+			</tr>
+			<tr>
+				<td>Jul 14</td>
+				<td>Bluesfestival Peer</td>
+				<td>Peer (Be)</td>
 			</tr>
 			<tr>
 				<td>Jul 29</td>
@@ -108,6 +118,11 @@
 				<td>Aug 5</td>
 				<td>Onder de Platanen</td>
 				<td>Delft</td>
+			</tr>
+			<tr>
+				<td>Aug 18</td>
+				<td>Swing Wespelaar</td>
+				<td>Wespelaar (be)</td>
 			</tr>
 			<tr>
 				<td>Aug 19</td>
