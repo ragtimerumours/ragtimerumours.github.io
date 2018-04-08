@@ -122,7 +122,7 @@
 			<tr>
 				<td>Aug 18</td>
 				<td>Swing Wespelaar</td>
-				<td>Wespelaar (be)</td>
+				<td>Wespelaar (Be)</td>
 			</tr>
 			<tr>
 				<td>Aug 19</td>
@@ -133,6 +133,11 @@
 				<td>Aug 25</td>
 				<td>Culemborg Blues</td>
 				<td>Culemborg</td>
+			</tr>
+			<tr>
+				<td>Aug 30-2 sept</td>
+				<td>Blues in Hell</td>
+				<td>Hell (No)</td>
 			</tr>
 			<tr>
 				<td>Oct 20</td>
