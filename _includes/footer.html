@@ -23,27 +23,47 @@
 		</section>
 		<section class="split">
 			<section>
+                <h3>Band:</h3>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
-			</section>
-			<section>
+			
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
 					<span>{{ site.phone }}</span>
 				</div>
-			</section>
-			<section>
+			
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
 					<span>
 					{% if site.state %}
 					    {{ site.state }}<br />
 					{% endif %}
+					{% if site.country %}
+					    {{ site.country }}
+					{% endif %}
+					</span>
+				</div>
+			</section>
+			
+			<section>
+                <h3>Bookings at Muzink:</h3>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<a href="mailto:bookings@muzink.nl">bookings@muzink.nl</a>
+				</div>
+			
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<span>0031(0)50-2600002 </span>
+				</div>
+			
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<span>
+					P.O. Box 9125<br />
+					9703 LC  GRONINGEN<br />
 					{% if site.country %}
 					    {{ site.country }}
 					{% endif %}
