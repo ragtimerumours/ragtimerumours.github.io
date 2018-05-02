@@ -49,7 +49,7 @@
 				<td>Sophie's pub</td>
 				<td>Roermond</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Mar 3</td>
 				<td>Tinus</td>
 				<td>Panningen</td>
@@ -69,7 +69,7 @@
 				<td>Tour</td>
 				<td>Norway</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>May 5</td>
 				<td>Moulin Blues</td>
 				<td>Ospel</td>
@@ -98,6 +98,11 @@
 				<td>Jun 2</td>
 				<td>Pop on Top</td>
 				<td>Valkenburg</td>
+			</tr>
+			<tr>
+				<td>Jun 3</td>
+				<td>Kim's Kroeg</td>
+				<td>Tilburg</td>
 			</tr>
 			<tr>
 				<td>Jun 17</td>
