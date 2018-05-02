@@ -110,6 +110,11 @@
 				<td>Peer (Be)</td>
 			</tr>
 			<tr>
+				<td>Jul 28</td>
+				<td>Manuslust</td>
+				<td>Neer</td>
+			</tr>
+			<tr>
 				<td>Jul 29</td>
 				<td>Brielle Blues</td>
 				<td>Brielle</td>
