@@ -81,7 +81,7 @@
 			</tr>
 			<tr>
 				<td>May 11</td>
-				<td>Breda jezz festival</td>
+				<td>Breda jazz festival</td>
 				<td>Breda</td>
 			</tr>
 			<tr>
