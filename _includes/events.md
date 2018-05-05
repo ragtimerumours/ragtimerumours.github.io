@@ -115,6 +115,11 @@
 				<td>Heythuisen</td>
 			</tr>
 			<tr>
+				<td>Jul 7</td>
+				<td>Bliuzo Naktys</td>
+				<td>Varniai(Lt)</td>
+			</tr>
+			<tr>
 				<td>Jul 14</td>
 				<td>Bluesfestival Peer</td>
 				<td>Peer (Be)</td>
