@@ -90,6 +90,11 @@
 				<td>Raalte</td>
 			</tr>
 			<tr>
+				<td>May 20</td>
+				<td>Moutfestival</td>
+				<td>Enschede</td>
+			</tr>
+			<tr>
 				<td>May 26</td>
 				<td>EGOpop</td>
 				<td>Egchel</td>
