@@ -69,7 +69,7 @@
 				<td>Tour</td>
 				<td>Norway</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>May 5</td>
 				<td>Moulin Blues</td>
 				<td>Ospel</td>
@@ -84,7 +84,7 @@
 				<td>Breda jazz festival</td>
 				<td>Breda</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>May 20</td>
 				<td>Ribs&Blues</td>
 				<td>Raalte</td>
@@ -108,6 +108,11 @@
 				<td>Jun 3</td>
 				<td>Kim's Kroeg</td>
 				<td>Tilburg</td>
+			</tr>
+			<tr>
+				<td>Jun 16</td>
+				<td>Offebek open air</td>
+				<td>Reuver</td>
 			</tr>
 			<tr>
 				<td>Jun 17</td>
