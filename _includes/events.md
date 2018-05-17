@@ -122,7 +122,7 @@
 			<tr>
 				<td>Jun 23</td>
 				<td>Tuinfeest TomTom</td>
-				<td>Heythuisen</td>
+				<td>Heythuysen</td>
 			</tr>
 			<tr>
 				<td>Jul 7</td>
@@ -130,11 +130,21 @@
 				<td>Varniai (Lt)</td>
 			</tr>
 			<tr>
+				<td>Jul 12</td>
+				<td>Santa Maria Blues</td>
+				<td>Azoren (Pt)</td>
+			</tr>
+			<tr>
 				<td>Jul 14</td>
 				<td>Bluesfestival Peer</td>
 				<td>Peer (Be)</td>
 			</tr>
 			<tr>
+				<td>Jul 15</td>
+				<td>Hondarribia Blues Festival</td>
+				<td>Hondarribia (Es)</td>
+			</tr>
+			<tr> 
 				<td>Jul 28</td>
 				<td>Manuslust</td>
 				<td>Neer</td>
