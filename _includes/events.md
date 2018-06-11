@@ -84,7 +84,7 @@
 				<td>Breda jazz festival</td>
 				<td>Breda</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>May 20</td>
 				<td>Ribs&Blues</td>
 				<td>Raalte</td>
@@ -109,7 +109,7 @@
 				<td>Kim's Kroeg</td>
 				<td>Tilburg</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Jun 16</td>
 				<td>Offebek open air</td>
 				<td>Reuver</td>
@@ -178,6 +178,11 @@
 				<td>Aug 30-2 sept</td>
 				<td>Blues in Hell</td>
 				<td>Hell (No)</td>
+			</tr>
+			<tr>
+				<td>Oct 12</td>
+				<td>Txel Blues</td>
+				<td>Texel</td>
 			</tr>
 			<tr>
 				<td>Oct 20</td>
