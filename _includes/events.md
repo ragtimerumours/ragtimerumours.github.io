@@ -160,6 +160,11 @@
 				<td>Delft</td>
 			</tr>
 			<tr>
+				<td>Aug 12</td>
+				<td>Zomerparkfeesten</td>
+				<td>Venlo</td>
+			</tr>
+			<tr>
 				<td>Aug 18</td>
 				<td>Swing Wespelaar</td>
 				<td>Wespelaar (Be)</td>
