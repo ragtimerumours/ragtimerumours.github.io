@@ -200,11 +200,6 @@
 				<td>Hell (No)</td>
 			</tr>
 			<tr>
-				<td>Sept 8</td>
-				<td>Dorpsfeest</td>
-				<td>Nederweert-Eind</td>
-			</tr>
-			<tr>
 				<td>Oct 12</td>
 				<td>Texel Blues</td>
 				<td>Texel</td>
