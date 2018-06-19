@@ -215,15 +215,15 @@
 				<td>Almelo</td>
 			</tr>
 			<tr>
-				<td>Oct 21</td>
-				<td> </td>
-				<td>Valkenburg</td>
-			</tr>
-			<tr>
 				<td>Oct 20</td>
 				<td>Zilst Blues</td>
 				<td>Zeelst</td>
 			</tr>
+			<tr>
+				<td>Oct 21</td>
+				<td>Bok 'n Blues Valkenburg</td>
+				<td>Valkenburg</td>
+						</tr>
 			<tr>
 				<td>Nov 3</td>
 				<td>Heerlen Jazz</td>
