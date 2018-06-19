@@ -190,13 +190,23 @@
 				<td>Culemborg</td>
 			</tr>
 			<tr>
+				<td>Aug 26</td>
+				<td>St Rosa festival</td>
+				<td>Sittard</td>
+			</tr>
+			<tr>
 				<td>Aug 30-2 sept</td>
 				<td>Blues in Hell</td>
 				<td>Hell (No)</td>
 			</tr>
 			<tr>
+				<td>Sept 8</td>
+				<td>Dorpsfeest</td>
+				<td>Nederweert-Eind</td>
+			</tr>
+			<tr>
 				<td>Oct 12</td>
-				<td>Txel Blues</td>
+				<td>Texel Blues</td>
 				<td>Texel</td>
 			</tr>
 			<tr>
