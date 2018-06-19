@@ -160,6 +160,11 @@
 				<td>Brielle</td>
 			</tr>
 			<tr>
+				<td>Aug 3</td>
+				<td>Notodden Bluesfestival</td>
+				<td>Notodden (No)</td>
+			</tr>
+			<tr>
 				<td>Aug 5</td>
 				<td>Onder de Platanen</td>
 				<td>Delft</td>
