@@ -215,6 +215,11 @@
 				<td>Zeelst</td>
 			</tr>
 			<tr>
+				<td>Nov 3</td>
+				<td>Heerlen Jazz</td>
+				<td>Heerlen</td>
+			</tr>
+			<tr>
 				<td>Nov 10</td>
 				<td>Blues aan Zee</td>
 				<td>Monster</td>
