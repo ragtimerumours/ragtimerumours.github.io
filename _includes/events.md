@@ -200,9 +200,24 @@
 				<td>Hell (No)</td>
 			</tr>
 			<tr>
+				<td>Sept 29</td>
+				<td>DVERS</td>
+				<td>Sittard-Geleen</td>
+			</tr>
+			<tr>
 				<td>Oct 12</td>
 				<td>Texel Blues</td>
 				<td>Texel</td>
+			</tr>
+			<tr>
+				<td>Oct 19</td>
+				<td>Bokfestival</td>
+				<td>Almelo</td>
+			</tr>
+			<tr>
+				<td>Oct 21</td>
+				<td> </td>
+				<td>Valkenburg</td>
 			</tr>
 			<tr>
 				<td>Oct 20</td>
@@ -218,6 +233,11 @@
 				<td>Nov 10</td>
 				<td>Blues aan Zee</td>
 				<td>Monster</td>
+			</tr>
+			<tr>
+				<td>Nov 17</td>
+				<td>Lucerne Blues Festival</td>
+				<td>Luzern (Ch)</td>
 			</tr>
 			<tr>
 				<td>Dec 1</td>
