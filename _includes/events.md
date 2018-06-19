@@ -109,7 +109,7 @@
 				<td>Kim's Kroeg</td>
 				<td>Tilburg</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Jun 16</td>
 				<td>Offebek open air</td>
 				<td>Reuver</td>
@@ -119,10 +119,15 @@
 				<td>Get Together</td>
 				<td>Tegelen</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Jun 23</td>
 				<td>Tuinfeest TomTom</td>
 				<td>Heythuysen</td>
+			</tr>
+			<tr>
+				<td>Jun 24</td>
+				<td>Jaarmarkt</td>
+				<td>Herkenbosch</td>
 			</tr>
 			<tr>
 				<td>Jul 7</td>
