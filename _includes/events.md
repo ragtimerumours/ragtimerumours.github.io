@@ -119,7 +119,7 @@
 				<td>Get Together</td>
 				<td>Tegelen</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Jun 23</td>
 				<td>Tuinfeest TomTom</td>
 				<td>Heythuysen</td>
@@ -169,7 +169,7 @@
 				<td>Onder de Platanen</td>
 				<td>Delft</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Aug 12</td>
 				<td>Zomerparkfeesten</td>
 				<td>Venlo</td>
@@ -198,6 +198,16 @@
 				<td>Aug 30-2 sept</td>
 				<td>Blues in Hell</td>
 				<td>Hell (No)</td>
+			</tr>
+			<tr>
+				<td>Sept 8</td>
+				<td>Dorpsfeest</td>
+				<td>Nederweert-eind</td>
+			</tr>
+			<tr>
+				<td>Sept 9</td>
+				<td>Café Wilhelmina</td>
+				<td>Eindhoven</td>
 			</tr>
 			<tr>
 				<td>Sept 29</td>
