@@ -210,6 +210,11 @@
 				<td>Eindhoven</td>
 			</tr>
 			<tr>
+				<td>Sept 14</td>
+				<td>Metropool</td>
+				<td>Hengelo</td>
+			</tr>
+			<tr>
 				<td>Sept 29</td>
 				<td>DVERS</td>
 				<td>Sittard-Geleen</td>
@@ -253,6 +258,11 @@
 				<td>Dec 1</td>
 				<td>De Bosuil</td>
 				<td>Weert</td>
+			</tr>
+			<tr>
+				<td>Dec 2</td>
+				<td>Festival Bovengronds</td>
+				<td>Heerlen</td>
 			</tr>
 			<tr>
 				<td>Jan 18, 2019</td>
