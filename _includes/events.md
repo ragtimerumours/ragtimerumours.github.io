@@ -169,7 +169,7 @@
 				<td>Onder de Platanen</td>
 				<td>Delft</td>
 			</tr>
-			<tr id="view">
+			</tr>
 				<td>Aug 12</td>
 				<td>Zomerparkfeesten</td>
 				<td>Venlo</td>
@@ -194,10 +194,15 @@
 				<td>St Rosa festival</td>
 				<td>Sittard</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Aug 30-2 sept</td>
 				<td>Blues in Hell</td>
 				<td>Hell (No)</td>
+			</tr>
+			<tr>
+				<td>Sept 7</td>
+				<td>Opnames videoclip</td>
+				<td>Reuver</td>
 			</tr>
 			<tr>
 				<td>Sept 8</td>
