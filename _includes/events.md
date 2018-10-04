@@ -225,6 +225,16 @@
 				<td>Sittard-Geleen</td>
 			</tr>
 			<tr>
+				<td>Oct 5</td>
+				<td>Lijn 99 Festival</td>
+				<td>Schaijk</td>
+			</tr>
+			<tr>
+				<td>Oct 7</td>
+				<td>Finale Dutch Blues Challenge</td>
+				<td>Nieuw-Vennep</td>
+			</tr>
+			<tr>
 				<td>Oct 12</td>
 				<td>Texel Blues</td>
 				<td>Texel</td>
@@ -243,7 +253,12 @@
 				<td>Oct 21</td>
 				<td>Bok 'n Blues Valkenburg</td>
 				<td>Valkenburg</td>
-						</tr>
+			</tr>
+			<tr>
+				<td>Oct 26</td>
+				<td>Releaseshow</td>
+				<td>Lindewerra</td>
+			</tr>
 			<tr>
 				<td>Nov 3</td>
 				<td>Heerlen Jazz</td>
