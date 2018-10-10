@@ -194,7 +194,7 @@
 				<td>St Rosa festival</td>
 				<td>Sittard</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Aug 30-2 sept</td>
 				<td>Blues in Hell</td>
 				<td>Hell (No)</td>
@@ -234,7 +234,7 @@
 				<td>Finale Dutch Blues Challenge</td>
 				<td>Nieuw-Vennep</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Oct 12</td>
 				<td>Texel Blues</td>
 				<td>Texel</td>
@@ -268,6 +268,16 @@
 				<td>Nov 10</td>
 				<td>Blues aan Zee</td>
 				<td>Monster</td>
+			</tr>
+			<tr>
+				<td>Nov 12</td>
+				<td>Brasserie Emmen</td>
+				<td>Emmen</td>
+			</tr>
+			<tr>
+				<td>Nov 13</td>
+				<td>Missy-sippy</td>
+				<td>Gent</td>
 			</tr>
 			<tr>
 				<td>Nov 17</td>
