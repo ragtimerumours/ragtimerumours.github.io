@@ -46,27 +46,22 @@
 				</div>
 			</section>
 			<section>
-				<h3>Bookings outside the Benelux:</h3>
+				<h3>Bookings Scandinavia:</h3>
+				<div class="contact-method">
+					<span class="icon alt fa-users"></span>
+					<span>
+                        Hell Artist Booking, Norway <br />
+                        Att: Kjell Inge Fischer Brovoll
+					</span>
+				</div>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
-					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+					<a href="hellboss@online.no">hellboss@online.no</a>
 				</div>
 			
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
-					<span>{{ site.phone }}</span>
-				</div>
-			
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<span>
-					{% if site.state %}
-					    {{ site.state }},
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
+					<span>0047 95224677 </span>
 				</div>
 			</section>
 		</section>
@@ -116,8 +111,10 @@
                     document.write(year)
                 </script></li>
 				<!--<li>Design: <a href="http://veritasfarm.net" target="_blank">Anke Boersma</a></li>-->
-
-			</ul>
+                <li>{{ site.state }}, {{ site.country }}</li>
+                <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                <li>{{ site.phone }}</li>
+            </ul>
 			<a href="#" class="crunchify-top"><i class="icon alt fa-chevron-up custom" ></i></a>
 		</div>
 	</footer>
