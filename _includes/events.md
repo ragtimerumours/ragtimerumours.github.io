@@ -234,7 +234,7 @@
 				<td>Finale Dutch Blues Challenge</td>
 				<td>Nieuw-Vennep</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Oct 12</td>
 				<td>Texel Blues</td>
 				<td>Texel</td>
@@ -264,7 +264,7 @@
 				<td>Heerlen Jazz</td>
 				<td>Heerlen</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Nov 10</td>
 				<td>Blues aan Zee</td>
 				<td>Monster</td>
@@ -286,7 +286,7 @@
 			</tr>
 			<tr>
 				<td>Dec 1</td>
-				<td>De Bosuil</td>
+				<td>De Bosuil.</td>  
 				<td>Weert</td>
 			</tr>
 			<tr>
@@ -295,9 +295,44 @@
 				<td>Heerlen</td>
 			</tr>
 			<tr>
+				<td>Dec 15</td>
+				<td>Muziekgieterij  ***RELEASE-SHOW RAG'N ROLL*** </td>
+				<td>Maastricht</td>
+			</tr>
+			<tr>
+				<td>Jan 4,5 2019</td>
+				<td>Hell</td>
+				<td>Norway</td>
+			</tr>
+			<tr>
+				<td>Jan 11 2019</td>
+				<td>Porto</td>
+				<td>Portugal</td>
+			</tr>
+			<tr>
+				<td>Jan 12, 2019</td>
+				<td>Lisbon</td>
+				<td>Portugal</td>
+			</tr>
+			<tr>
 				<td>Jan 18, 2019</td>
+				<td>De Amer Theater</td>
 				<td>De Amer</td>
-				<td>Amen</td>
+			</tr>
+			<tr>
+				<td>Jan 19, 2019</td>
+				<td>Akoestisch huiskamerconcert</td>
+				<td>Venray</td>
+			</tr>
+			<tr>
+				<td>Feb 22, 2019</td>
+				<td>Bluesfestival</td>
+				<td>Delft</td>
+			</tr>
+			<tr>
+				<td>Mrt 2, 2019</td>
+				<td>Bielefeld</td>
+				<td>Bielefeld</td>
 			</tr>
 		</tbody>
 	</table>
