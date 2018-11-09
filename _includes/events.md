@@ -317,7 +317,7 @@
 			<tr>
 				<td>Jan 18, 2019</td>
 				<td>De Amer Theater</td>
-				<td>De Amer</td>
+				<td>Amen</td>
 			</tr>
 			<tr>
 				<td>Jan 19, 2019</td>
