@@ -7,7 +7,7 @@
 	
 			<ul class="icons">
                 <li><a href="{{ site.baseurl }}/" class="icon alt fa-home" title="Home"><span class="label">Home</span></a></li>
-				<li><a href="{{ site.baseurl }}/video" class="icon alt fa-video-camera scrolly" title="Videos, Images & Album"><span class="label">About</span></a></li>
+				<li><a href="{{ site.baseurl }}/video" class="icon alt fa-music scrolly" title="Videos, Images & Album"><span class="label">About</span></a></li>
 				<!--<li><a href="{{ site.baseurl }}/#audio" class="icon alt fa-music scrolly" title="Album"><span class="label">Music</span></a></li> -->
 				<!--<li><a href="{{ site.baseurl }}#three" class="icon alt fa-calendar" title="Tour Dates"><span class="label">Music</span></a></li>
 				<li><a href="{{ site.baseurl }}#contact" class="icon alt fa-envelope" title="Contact"><span class="label">Music</span></a></li>-->
@@ -42,71 +42,4 @@
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
 			</ul>
-
-<!--<nav>
-		<a href="#menu">Menu</a>
-		<h1 class="Header-brand">
-                    <a href="{{ site.baseurl }}/">
-                        <img src="{{ site.baseurl }}/assets/images/logo_100_inverted.png" alt="{{ site.title }}" width="70">
-                    </a>
-                </h1>
-	</nav>-->
 </header>
-
-<!-- Menu -->
-<!--<nav id="menu">
-	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-		<li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about" {% if current[1] == 'about' %}class="active"{% endif %}>About</a></li>
-        <li><a href="{{ site.baseurl }}/news" {% if current[1] == 'news' %}class="active"{% endif %}>News</a></li>
-        <li><a href="{{ site.baseurl }}/music" {% if current[1] == 'music' %}class="active"{% endif %}>Music</a></li>
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
-	</ul>
-	<div class="inner">
-			<ul class="icons">
-                {% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-				{% endif %}
-				{% if site.twitter_url %}
-				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if site.googleplus_url %}
-				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-				{% endif %}
-				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				{% endif %}
-				{% if site.pinterest_url %}
-				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-				{% endif %}
-				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
-				{% endif %}
-				{% if site.gitlab_url %}
-				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
-				{% endif %}
-				{% if site.github_url %}
-				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-				{% endif %}
-				{% if site.slack_url %}
-				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
-				{% endif %}
-				{% if site.linkedin_url %}
-				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-				{% endif %}
-			</ul>
-    </div>
-</nav> -->

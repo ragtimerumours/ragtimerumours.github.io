@@ -38,6 +38,15 @@ nav-menu: true
     </div>
 </section>
 
+<!-- Spotify player -->
+<section id="three">
+	<div class="inner">
+        
+            <iframe class="media-audio" src="https://open.spotify.com/embed?uri=spotify:album:405vOz7e0awyG1MkRnDu5J" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+	</div>
+</section>
+
 <!--image section -->
 <section id="two">
     <div class="box alt" id="images">
@@ -59,15 +68,6 @@ nav-menu: true
             <div class="4u$"><span class="image fit"><img src="assets/images/band_cl2.png" alt="" /></span></div>
         </div>
     </div>
-</section>
-
-<!-- Spotify player -->
-<section id="three">
-	<div class="inner">
-        
-            <iframe class="media-audio" src="https://open.spotify.com/embed?uri=spotify:album:7JZJE36cFkciuXvUM1aM2B" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-
-	</div>
 </section>
 
 </div>
