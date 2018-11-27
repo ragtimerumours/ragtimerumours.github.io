@@ -65,7 +65,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
         
-            <iframe class="media-audio" src="https://open.spotify.com/embed?uri=spotify:album:405vOz7e0awyG1MkRnDu5J" width="300" height="340" frameborder="0" allowtransparency="true"></iframe>
+            <iframe class="media-audio" src="https://open.spotify.com/embed?uri=spotify:playlist:4YCbeKr4MgNXKfScl9dekg" width="300" height="340" frameborder="0" allowtransparency="true"></iframe>
 
 	</div>
 </section>
