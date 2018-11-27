@@ -14,6 +14,18 @@ nav-menu: true
         <div class="row">
             <div class="6u 12u$(small)">
                 <header class="major">
+                    <h4>The Ragtime Rumours - Stop that Train</h4>
+                </header>
+                
+                <video width="90%" controls preload="metadata">
+                    <source src="assets/media/stop_that_train.webm#t=1,100" type="video/webm">
+                    <!--<source src="https://kaosx.us/media/the_ragtime_rumours-ain't_nobody.mp4#t=3,100" type="video/mp4">-->
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            
+            <div class="6u 12u$(small)">
+                <header class="major">
                     <h4>The Ragtime Rumours - Love & Lust</h4>
                 </header>
                 
@@ -22,29 +34,8 @@ nav-menu: true
                     Your browser does not support the video tag.
                 </video>
             </div>
-            
-            <div class="6u 12u$(small)">
-                <header class="major">
-                    <h4>The Ragtime Rumours - Ain't Nobody</h4>
-                </header>
-                
-                <video width="90%" controls preload="metadata">
-                    <source src="assets/media/the_ragtime_rumours-ain't_nobody.webm#t=3,100" type="video/webm">
-                    <source src="https://kaosx.us/media/the_ragtime_rumours-ain't_nobody.mp4#t=3,100" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-            </div>
         </div>
     </div>
-</section>
-
-<!-- Spotify player -->
-<section id="three">
-	<div class="inner">
-        
-            <iframe class="media-audio" src="https://open.spotify.com/embed?uri=spotify:album:405vOz7e0awyG1MkRnDu5J" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-
-	</div>
 </section>
 
 <!--image section -->
@@ -70,4 +61,12 @@ nav-menu: true
     </div>
 </section>
 
+<!-- Spotify player -->
+<section id="three">
+	<div class="inner">
+        
+            <iframe class="media-audio" src="https://open.spotify.com/embed?uri=spotify:album:405vOz7e0awyG1MkRnDu5J" width="300" height="340" frameborder="0" allowtransparency="true"></iframe>
+
+	</div>
+</section>
 </div>
