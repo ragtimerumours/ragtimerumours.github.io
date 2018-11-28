@@ -9,11 +9,11 @@ author: null
 <div class="row uniform">
     <div class="3u 12u$(xsmall)">
         <div class="audioplay-object">
-            Ragtime Rumours
+            Stop That Train
             <div class="audioplay-button"></div>
                 <audio class="audioplay-player" data-apmode="playpause" data-apskin="classic" data-apstarttime="0" data-apfadeintime="3000" data-apwidth="30px" data-apheight="30px" data-aploop="yes" preload="none">
-                    <source src="assets/media/ragtime_rumours.mp3" />
-                    <source src="assets/media/ragtime_rumours.ogg" />
+                    <source src="assets/media/stop_that_train.mp3" />
+                    <source src="assets/media/stop_that_train.ogg" />
                     Your browser doesn't support &lt;audio&gt; element.
                 </audio>
         </div>
@@ -45,11 +45,11 @@ author: null
     
     <div class="3u$ 12u$(xsmall)">
         <div class="audioplay-object">
-            Get Up On My Feet
+            Faker
             <div class="audioplay-button"></div>
                 <audio class="audioplay-player" data-apmode="playpause" data-apskin="classic" data-apstarttime="0" data-apfadeintime="3000" data-apwidth="30px" data-apheight="30px" data-aploop="no" preload="none">
-                    <source src="assets/media/get_up_on_my_feet.mp3" />
-                    <source src="assets/media/get_up_on_my_feet.ogg" />
+                    <source src="assets/media/faker.mp3" />
+                    <source src="assets/media/faker.ogg" />
                     Your browser doesn't support &lt;audio&gt; element.
                 </audio>
             </div>
