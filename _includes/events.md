@@ -330,9 +330,14 @@
 				<td>Delft</td>
 			</tr>
 			<tr>
+				<td>Mrt 1, 2019</td>
+				<td>Bielefeld</td>
+				<td>Bielefeld</td>
+			</tr>
+			<tr>
 				<td>Mrt 2, 2019</td>
-				<td>Bielefeld</td>
-				<td>Bielefeld</td>
+				<td>Hagelan Bluesfestival</td>
+				<td>Hagelan</td>
 			</tr>
 		</tbody>
 	</table>
