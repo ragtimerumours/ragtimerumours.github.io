@@ -306,13 +306,13 @@
 			</tr>
 			<tr>
 				<td>Jan 11 2019</td>
-				<td>Porto</td>
-				<td>Portugal</td>
+				<td>Vadia Brewpub</td>
+				<td>Oliveir de azemeis (Pt)</td>
 			</tr>
 			<tr>
 				<td>Jan 12, 2019</td>
-				<td>Lisbon</td>
-				<td>Portugal</td>
+				<td>Auditorio Forum</td>
+				<td>Baixa da Banheira</td>
 			</tr>
 			<tr>
 				<td>Jan 18, 2019</td>
@@ -321,7 +321,7 @@
 			</tr>
 			<tr>
 				<td>Jan 19, 2019</td>
-				<td>Akoestisch huiskamerconcert</td>
+				<td>Huisconcert</td>
 				<td>Venray</td>
 			</tr>
 			<tr>
