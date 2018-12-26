@@ -322,7 +322,7 @@
 			<tr>
 				<td>Jan 19, 2019</td>
 				<td>Huisconcert</td>
-				<td>Venray</td>
+				<td>Castenray</td>
 			</tr>
 			<tr>
 				<td>Feb 22, 2019</td>
