@@ -336,8 +336,8 @@
 			</tr>
 			<tr>
 				<td>Mrt 2, 2019</td>
-				<td>Hagelan Bluesfestival</td>
-				<td>Hagelan</td>
+				<td>Hageland Bluesfestival</td>
+				<td>Glabbeek</td>
 			</tr>
 		</tbody>
 	</table>
