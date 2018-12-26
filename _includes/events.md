@@ -312,7 +312,7 @@
 			<tr>
 				<td>Jan 12, 2019</td>
 				<td>Auditorio Forum</td>
-				<td>Baixa da Banheira</td>
+				<td>Baixa da Banheira (Pt)</td>
 			</tr>
 			<tr>
 				<td>Jan 18, 2019</td>
