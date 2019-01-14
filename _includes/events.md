@@ -264,7 +264,7 @@
 				<td>Heerlen Jazz</td>
 				<td>Heerlen</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Nov 10</td>
 				<td>Blues aan Zee</td>
 				<td>Monster</td>
@@ -314,7 +314,7 @@
 				<td>Auditorio Forum</td>
 				<td>Baixa da Banheira (Pt)</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Jan 17, 2019</td>
 				<td>Dog's Bollocks</td>
 				<td>Groningen</td>
@@ -331,7 +331,7 @@
 			</tr>
 			<tr>
 				<td>Feb 2, 2019</td>
-				<td>Den Floeren Aap</td>
+				<td>De Floeren Aap</td>
 				<td>Stampersgat</td>
 			</tr>
 			<tr>
