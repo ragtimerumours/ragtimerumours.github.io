@@ -315,6 +315,11 @@
 				<td>Baixa da Banheira (Pt)</td>
 			</tr>
 			<tr>
+				<td>Jan 17, 2019</td>
+				<td>Dog's Bollocks</td>
+				<td>Groningen</td>
+			</tr>
+			<tr>
 				<td>Jan 18, 2019</td>
 				<td>De Amer Theater</td>
 				<td>Amen</td>
@@ -323,6 +328,11 @@
 				<td>Jan 19, 2019</td>
 				<td>Huisconcert</td>
 				<td>Castenray</td>
+			</tr>
+			<tr>
+				<td>Feb 2, 2019</td>
+				<td>Den Floeren Aap</td>
+				<td>Stampersgat</td>
 			</tr>
 			<tr>
 				<td>Feb 22, 2019</td>
