@@ -9,297 +9,7 @@
 			</tr>
 		</thead>
 		<tbody>
-			<tr>
-				<td>Jan 5</td>
-				<td>Blues in Wijk</td>
-				<td>Wijk bij Duurstede</td>
-			</tr>
-			<tr>
-				<td>Jan 14</td>
-				<td>Blues at the Beach.</td>
-				<td>Amsterdam</td>
-			</tr>
-			<tr>
-				<td>Jan 16</td>
-				<td>Tin Roof</td>
-				<td>Memphis, TN, USA</td>
-			</tr>
-			<tr>
-				<td>Jan 17</td>
-				<td>IBC Hard Rock Café</td>
-				<td>Memphis, TN, USA</td>
-			</tr>
-			<tr>
-				<td>Jan 18</td>
-				<td>IBC Hard Rock Café</td>
-				<td>Memphis, TN, USA</td>
-			</tr>
-			<tr>
-				<td>Jan 18</td>
-				<td>Ditty TV</td>
-				<td>Memphis, TN, USA</td>
-			</tr>
-			<tr>
-				<td>Jan 27</td>
-				<td>Brouwcafé de Vaart</td>
-				<td>Den Bosch</td>
-			</tr>
-			<tr>
-				<td>Jan 27</td>
-				<td>Sophie's pub</td>
-				<td>Roermond</td>
-			</tr>
-			<tr>
-				<td>Mar 3</td>
-				<td>Tinus</td>
-				<td>Panningen</td>
-			</tr>
-			<tr>
-				<td>Mar 15-18</td>
-				<td>European Blues Challenge</td>
-				<td>Hell, Norway</td>
-			</tr>
-			<tr>
-				<td>Apr 21</td>
-				<td>Landbouwbelang</td>
-				<td>Maastricht</td>
-			</tr>
-			<tr>
-				<td>Apr 26-29</td>
-				<td>Tour</td>
-				<td>Norway</td>
-			</tr>
-			<tr>
-				<td>May 5</td>
-				<td>Moulin Blues</td>
-				<td>Ospel</td>
-			</tr>
-			<tr>
-				<td>May 5</td>
-				<td>Bevrijdingsfestival</td>
-				<td>Roermond</td>
-			</tr>
-			<tr>
-				<td>May 11</td>
-				<td>Breda jazz festival</td>
-				<td>Breda</td>
-			</tr>
-			<tr>
-				<td>May 20</td>
-				<td>Ribs&Blues</td>
-				<td>Raalte</td>
-			</tr>
-			<tr>
-				<td>May 20</td>
-				<td>Moutfestival</td>
-				<td>Enschede</td>
-			</tr>
-			<tr>
-				<td>May 26</td>
-				<td>EGOpop</td>
-				<td>Egchel</td>
-			</tr>
-			<tr>
-				<td>Jun 2</td>
-				<td>Pop on Top</td>
-				<td>Valkenburg</td>
-			</tr>
-			<tr>
-				<td>Jun 3</td>
-				<td>Kim's Kroeg</td>
-				<td>Tilburg</td>
-			</tr>
-			<tr>
-				<td>Jun 16</td>
-				<td>Offebek open air</td>
-				<td>Reuver</td>
-			</tr>
-			<tr>
-				<td>Jun 17</td>
-				<td>Get Together</td>
-				<td>Tegelen</td>
-			</tr>
-			<tr>
-				<td>Jun 23</td>
-				<td>Tuinfeest TomTom</td>
-				<td>Heythuysen</td>
-			</tr>
-			<tr>
-				<td>Jun 24</td>
-				<td>Jaarmarkt</td>
-				<td>Herkenbosch</td>
-			</tr>
-			<tr>
-				<td>Jul 7</td>
-				<td>Bliuzo Naktys</td>
-				<td>Varniai (Lt)</td>
-			</tr>
-			<tr>
-				<td>Jul 12</td>
-				<td>Santa Maria Blues</td>
-				<td>Azoren (Pt)</td>
-			</tr>
-			<tr>
-				<td>Jul 14</td>
-				<td>Bluesfestival Peer</td>
-				<td>Peer (Be)</td>
-			</tr>
-			<tr>
-				<td>Jul 15</td>
-				<td>Hondarribia Blues Festival</td>
-				<td>Hondarribia (Es)</td>
-			</tr>
-			<tr> 
-				<td>Jul 28</td>
-				<td>Manuslust</td>
-				<td>Neer</td>
-			</tr>
-			<tr>
-				<td>Jul 29</td>
-				<td>Brielle Blues</td>
-				<td>Brielle</td>
-			</tr>
-			<tr>
-				<td>Aug 3</td>
-				<td>Notodden Bluesfestival</td>
-				<td>Notodden (No)</td>
-			</tr>
-			<tr>
-				<td>Aug 5</td>
-				<td>Onder de Platanen</td>
-				<td>Delft</td>
-			</tr>
-			</tr>
-				<td>Aug 12</td>
-				<td>Zomerparkfeesten</td>
-				<td>Venlo</td>
-			</tr>
-			<tr>
-				<td>Aug 18</td>
-				<td>Swing Wespelaar</td>
-				<td>Wespelaar (Be)</td>
-			</tr>
-			<tr>
-				<td>Aug 19</td>
-				<td>Sjwaampop</td>
-				<td>Swalmen</td>
-			</tr>
-			<tr>
-				<td>Aug 25</td>
-				<td>Culemborg Blues</td>
-				<td>Culemborg</td>
-			</tr>
-			<tr>
-				<td>Aug 26</td>
-				<td>St Rosa festival</td>
-				<td>Sittard</td>
-			</tr>
-			<tr>
-				<td>Aug 30-2 sept</td>
-				<td>Blues in Hell</td>
-				<td>Hell (No)</td>
-			</tr>
-			<tr>
-				<td>Sept 7</td>
-				<td>Opnames videoclip</td>
-				<td>Reuver</td>
-			</tr>
-			<tr>
-				<td>Sept 8</td>
-				<td>Dorpsfeest</td>
-				<td>Nederweert-eind</td>
-			</tr>
-			<tr>
-				<td>Sept 9</td>
-				<td>Café Wilhelmina</td>
-				<td>Eindhoven</td>
-			</tr>
-			<tr>
-				<td>Sept 14</td>
-				<td>Metropool</td>
-				<td>Hengelo</td>
-			</tr>
-			<tr>
-				<td>Sept 29</td>
-				<td>DVERS</td>
-				<td>Sittard-Geleen</td>
-			</tr>
-			<tr>
-				<td>Oct 5</td>
-				<td>Lijn 99 Festival</td>
-				<td>Schaijk</td>
-			</tr>
-			<tr>
-				<td>Oct 7</td>
-				<td>Finale Dutch Blues Challenge</td>
-				<td>Nieuw-Vennep</td>
-			</tr>
-			<tr>
-				<td>Oct 12</td>
-				<td>Texel Blues</td>
-				<td>Texel</td>
-			</tr>
-			<tr>
-				<td>Oct 19</td>
-				<td>Bokfestival</td>
-				<td>Almelo</td>
-			</tr>
-			<tr>
-				<td>Oct 20</td>
-				<td>Zilst Blues</td>
-				<td>Zeelst</td>
-			</tr>
-			<tr>
-				<td>Oct 21</td>
-				<td>Bok 'n Blues Valkenburg</td>
-				<td>Valkenburg</td>
-			</tr>
-			<tr>
-				<td>Oct 26</td>
-				<td>Releaseshow</td>
-				<td>Lindewerra</td>
-			</tr>
-			<tr>
-				<td>Nov 3</td>
-				<td>Heerlen Jazz</td>
-				<td>Heerlen</td>
-			</tr>
-			<tr>
-				<td>Nov 10</td>
-				<td>Blues aan Zee</td>
-				<td>Monster</td>
-			</tr>
-			<tr>
-				<td>Nov 12</td>
-				<td>Brasserie Emmen</td>
-				<td>Emmen</td>
-			</tr>
-			<tr>
-				<td>Nov 13</td>
-				<td>Missy-sippy</td>
-				<td>Gent</td>
-			</tr>
-			<tr>
-				<td>Nov 17</td>
-				<td>Lucerne Blues Festival</td>
-				<td>Luzern (Ch)</td>
-			</tr>
-			<tr>
-				<td>Dec 1</td>
-				<td>De Bosuil.</td>  
-				<td>Weert</td>
-			</tr>
-			<tr>
-				<td>Dec 2</td>
-				<td>Festival Bovengronds</td>
-				<td>Heerlen</td>
-			</tr>
-			<tr>
-				<td>Dec 15</td>
-				<td>Muziekgieterij  ***RELEASE-SHOW RAG'N ROLL*** </td>
-				<td>Maastricht</td>
-			</tr>
-			<tr>
+						<tr>
 				<td>Jan 4,5 2019</td>
 				<td>Hell</td>
 				<td>Norway</td>
@@ -341,13 +51,43 @@
 			</tr>
 			<tr>
 				<td>Mrt 1, 2019</td>
-				<td>Bielefeld</td>
-				<td>Bielefeld</td>
+				<td>Verein Cultur</td>
+				<td>Bielefeld (De)</td>
 			</tr>
 			<tr>
 				<td>Mrt 2, 2019</td>
-				<td>Hageland Bluesfestival</td>
-				<td>Glabbeek</td>
+				<td>Hageland Blues&Roots night</td>
+				<td>Glabbeek (Be)</td>
+			</tr>
+			<tr>
+				<td>Mrt 16, 2019</td>
+				<td>L1 Cultuurcafé</td>
+				<td>unknown</td>
+			</tr>
+			<tr>
+				<td>mai, 18 2019</td>
+				<td>Bluesfest eutin</td>
+				<td>Eutin (De)</td>
+			</tr>
+			<tr>
+				<td>Mai, 25 2019</td>
+				<td>Duvel Blues</td>
+				<td>Puurs (Be)</td>
+			</tr>
+			<tr>
+				<td>Mai, 26 2019</td>
+				<td>Bluessociëteit l'Esprit</td>
+				<td>Rotterdam</td>
+			</tr>
+			<tr>
+				<td>Jul, 21 2019</td>
+				<td>Bluesplein Eindhoven</td>
+				<td>Eindhoven</td>
+			</tr>
+			<tr>
+				<td>Aug, 17 2019</td>
+				<td>Open Air im Grüene</td>
+				<td>Bergdietikon (Ch)</td>
 			</tr>
 		</tbody>
 	</table>
