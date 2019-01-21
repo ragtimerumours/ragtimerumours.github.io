@@ -65,7 +65,7 @@
 				<td>unknown</td>
 			</tr>
 			<tr>
-				<td>mai, 18 2019</td>
+				<td>Mai, 18 2019</td>
 				<td>Bluesfest eutin</td>
 				<td>Eutin (De)</td>
 			</tr>
