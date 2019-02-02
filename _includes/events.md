@@ -42,7 +42,12 @@
 			<tr>
 				<td>Feb 2, 2019</td>
 				<td>De Floeren Aap</td>
-				<td>Mechelen</td>
+				<td>[CANCELED]</td>
+			</tr>
+			<tr>
+				<td>Feb 8, 2019</td>
+				<td>Vasco Haarsnijderij</td>
+				<td>Roermond</td>
 			</tr>
 			<tr>
 				<td>Feb 22, 2019</td>
