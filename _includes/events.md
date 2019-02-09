@@ -48,6 +48,11 @@
 				<td>Feb 8, 2019</td>
 				<td>Vasco Haarsnijderij</td>
 				<td>Roermond</td>
+				</tr>
+			<tr>
+				<td>Feb 16, 2019</td>
+				<td>Café TomTom</td>
+				<td>Heythuysen</td>
 			</tr>
 			<tr>
 				<td>Feb 22, 2019</td>
@@ -63,6 +68,11 @@
 				<td>Mrt 2, 2019</td>
 				<td>Hageland Blues&Roots night</td>
 				<td>Glabbeek (Be)</td>
+			</tr>
+			<tr>
+				<td>Mrt 15, 2019</td>
+				<td>Café de Floeren Aap</td>
+				<td>Mechelen</td>
 			</tr>
 			<tr>
 				<td>Mrt 16, 2019</td>
