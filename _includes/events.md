@@ -86,7 +86,7 @@
 			</tr>
 			<tr>
 				<td>Mai, 25 2019</td>
-				<td>Duvel Blues</td>
+				<td>DuvelBlues</td>
 				<td>Puurs (Be)</td>
 			</tr>
 			<tr>
