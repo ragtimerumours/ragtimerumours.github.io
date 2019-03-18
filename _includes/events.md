@@ -24,7 +24,7 @@
 				<td>Auditorio Forum</td>
 				<td>Baixa da Banheira (Pt)</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Jan 17, 2019</td>
 				<td>Dog's Bollocks</td>
 				<td>Groningen</td>
@@ -74,12 +74,7 @@
 				<td>Café de Floeren Aap</td>
 				<td>Mechelen</td>
 			</tr>
-			<tr>
-				<td>Mrt 16, 2019</td>
-				<td>L1 Cultuurcafé</td>
-				<td>unknown</td>
-			</tr>
-			<tr>
+			<tr id="view">
 				<td>Mai, 18 2019</td>
 				<td>Bluesfest eutin</td>
 				<td>Eutin (De)</td>
@@ -95,14 +90,74 @@
 				<td>Rotterdam</td>
 			</tr>
 			<tr>
+				<td>Mai, 30 2019</td>
+				<td>Mijl op 7 festival</td>
+				<td>Ospel</td>
+			</tr>
+			<tr>
+				<td>jun, 1 2019</td>
+				<td>Zwolle unlimited</td>
+				<td>Zwolle</td>
+			</tr>
+			<tr>
+				<td>jun, 28 2019</td>
+				<td>Gothenborg festival</td>
+				<td>Zweden</td>
+			</tr>
+			<tr>
+				<td>Jun, 29 2019</td>
+				<td>Straatmuziek festival</td>
+				<td>Almelo</td>
+			</tr>
+			<tr>
+				<td>Jul, 6 2019</td>
+				<td>Helsinki</td>
+				<td>Finland</td>
+			</tr>
+			<tr>
 				<td>Jul, 21 2019</td>
 				<td>Bluesplein Eindhoven</td>
 				<td>Eindhoven</td>
 			</tr>
 			<tr>
+				<td>Jul, 22-28 2019</td>
+				<td>Tour Hongarije</td>
+				<td>Hongarije</td>
+			</tr>
+			<tr>
 				<td>Aug, 17 2019</td>
 				<td>Open Air im Grüene</td>
 				<td>Bergdietikon (Ch)</td>
+			</tr>
+			<tr>
+				<td>Aug, 24 2019</td>
+				<td>Wild Rooster Festival</td>
+				<td>Den Haag</td>
+			</tr>
+			<tr>
+				<td>Aug, 29- sept, 1 2019</td>
+				<td>Bluesfest Roemenië</td>
+				<td>Roemenië</td>
+			</tr>
+			<tr>
+				<td>Sept, 6-7 2019</td>
+				<td>Festival PAS</td>
+				<td>Maastricht</td>
+			</tr>
+			<tr>
+				<td>Sept, 28 2019</td>
+				<td>info volgt</td>
+				<td>Frankrijk</td>
+			</tr>
+			<tr>
+				<td>Okt, 20 2019</td>
+				<td>Grenswerksessie</td>
+				<td>Info Volgt</td>
+			</tr>
+			<tr>
+				<td>Nov, 10 2019</td>
+				<td>Support Kat Riggins, ECI</td>
+				<td>Roermond</td>
 			</tr>
 		</tbody>
 	</table>
