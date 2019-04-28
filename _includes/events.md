@@ -75,6 +75,11 @@
 				<td>Mechelen</td>
 			</tr>
 			<tr id="view">
+				<td>Apr, 28 2019</td>
+				<td>De Lange Gang</td>
+				<td>Groenlo</td>
+			</tr>
+			<tr>
 				<td>Mai, 18 2019</td>
 				<td>Bluesfest eutin</td>
 				<td>Eutin (De)</td>
