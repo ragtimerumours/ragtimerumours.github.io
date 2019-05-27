@@ -74,7 +74,7 @@
 				<td>Café de Floeren Aap</td>
 				<td>Mechelen</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Apr, 28 2019</td>
 				<td>De Lange Gang</td>
 				<td>Groenlo</td>
@@ -94,7 +94,7 @@
 				<td>Bluessociëteit l'Esprit</td>
 				<td>Rotterdam</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Mai, 30 2019</td>
 				<td>Mijl op 7 festival</td>
 				<td>Ospel</td>
@@ -105,19 +105,34 @@
 				<td>Zwolle</td>
 			</tr>
 			<tr>
+				<td>jun, 2 2019</td>
+				<td>Breda Jazz</td>
+				<td>Breda</td>
+			</tr>
+			<tr>
+				<td>jun, 8 2019</td>
+				<td>L1</td>
+				<td>Onbekend</td>
+			</tr>
+			<tr>
+				<td>jun, 22 2019</td>
+				<td>KRUIT!</td>
+				<td>Nijmegen</td>
+			</tr>
+			<tr>
 				<td>jun, 28 2019</td>
 				<td>Gothenborg festival</td>
 				<td>Zweden</td>
 			</tr>
 			<tr>
 				<td>Jun, 29 2019</td>
-				<td>Straatmuziek festival</td>
+				<td>All Mellow</td>
 				<td>Almelo</td>
 			</tr>
 			<tr>
 				<td>Jul, 6 2019</td>
-				<td>Helsinki</td>
-				<td>Finland</td>
+				<td>Tyykiblues</td>
+				<td>Helsinki, Finland</td>
 			</tr>
 			<tr>
 				<td>Jul, 21 2019</td>
@@ -125,9 +140,14 @@
 				<td>Eindhoven</td>
 			</tr>
 			<tr>
-				<td>Jul, 22-28 2019</td>
-				<td>Tour Hongarije</td>
-				<td>Hongarije</td>
+				<td>Jul, 23 2019</td>
+				<td>Kobuci Kert</td>
+				<td>Budapest, Hongarije</td>
+			</tr>
+			<tr>
+				<td>Jul, 28 2019</td>
+				<td>Dorpsfeest Neer</td>
+				<td>Neer</td>
 			</tr>
 			<tr>
 				<td>Aug, 17 2019</td>
@@ -140,9 +160,9 @@
 				<td>Den Haag</td>
 			</tr>
 			<tr>
-				<td>Aug, 29- sept, 1 2019</td>
-				<td>Bluesfest Roemenië</td>
-				<td>Roemenië</td>
+				<td>Aug, 25 2019</td>
+				<td>Schijt aan de grens</td>
+				<td>Venray</td>
 			</tr>
 			<tr>
 				<td>Sept, 6-7 2019</td>
@@ -151,8 +171,8 @@
 			</tr>
 			<tr>
 				<td>Sept, 28 2019</td>
-				<td>info volgt</td>
-				<td>Frankrijk</td>
+				<td>Volcanic Blues Festival</td>
+				<td>Le mont-dore (Fr)</td>
 			</tr>
 			<tr>
 				<td>Okt, 20 2019</td>
