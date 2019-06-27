@@ -94,7 +94,7 @@
 				<td>Bluessociëteit l'Esprit</td>
 				<td>Rotterdam</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Mai, 30 2019</td>
 				<td>Mijl op 7 festival</td>
 				<td>Ospel</td>
@@ -119,7 +119,7 @@
 				<td>KRUIT!</td>
 				<td>Nijmegen</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>jun, 28 2019</td>
 				<td>Gothenborg festival</td>
 				<td>Zweden</td>
@@ -146,8 +146,18 @@
 			</tr>
 			<tr>
 				<td>Jul, 28 2019</td>
-				<td>Dorpsfeest Neer</td>
+				<td>Dorpsfeesten Neer</td>
 				<td>Neer</td>
+			</tr>
+			<tr>
+				<td>Aug, 10 2019</td>
+				<td>Petit Samois</td>
+				<td>Invite</td>
+			</tr>
+			<tr>
+				<td>Aug, 16 2019</td>
+				<td>Zebrafestival</td>
+				<td>Gemenrt</td>
 			</tr>
 			<tr>
 				<td>Aug, 17 2019</td>
@@ -165,19 +175,29 @@
 				<td>Venray</td>
 			</tr>
 			<tr>
-				<td>Sept, 6-7 2019</td>
+				<td>Sept, 6 2019</td>
 				<td>Festival PAS</td>
 				<td>Maastricht</td>
 			</tr>
 			<tr>
-				<td>Sept, 28 2019</td>
+				<td>Sept, 28&29 2019</td>
 				<td>Volcanic Blues Festival</td>
 				<td>Le mont-dore (Fr)</td>
 			</tr>
 			<tr>
+				<td>Okt, 6 2019</td>
+				<td>Nominatie Dutch Blues award</td>
+				<td>Nieuw-Vennep</td>
+			</tr>
+			<tr>
 				<td>Okt, 20 2019</td>
 				<td>Grenswerksessie</td>
-				<td>Info Volgt</td>
+				<td>More info soon</td>
+			</tr>
+			<tr>
+				<td>Nov, 9 2019</td>
+				<td>Honky-tonk bar</td>
+				<td>Dendermonde (Be)</td>
 			</tr>
 			<tr>
 				<td>Nov, 10 2019</td>
