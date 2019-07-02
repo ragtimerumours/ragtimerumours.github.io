@@ -119,7 +119,7 @@
 				<td>KRUIT!</td>
 				<td>Nijmegen</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>jun, 28 2019</td>
 				<td>Gothenborg festival</td>
 				<td>Zweden</td>
@@ -129,7 +129,7 @@
 				<td>All Mellow</td>
 				<td>Almelo</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Jul, 6 2019</td>
 				<td>Tyykiblues</td>
 				<td>Helsinki, Finland</td>
