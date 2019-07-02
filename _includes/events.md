@@ -183,12 +183,7 @@
 				<td>Sept, 28&29 2019</td>
 				<td>Volcanic Blues Festival</td>
 				<td>Le mont-dore (Fr)</td>
-			</tr>
-			<tr>
-				<td>Okt, 6 2019</td>
-				<td>Nominatie Dutch Blues award</td>
-				<td>Nieuw-Vennep</td>
-			</tr>
+						</tr>
 			<tr>
 				<td>Okt, 20 2019</td>
 				<td>Grenswerksessie</td>
