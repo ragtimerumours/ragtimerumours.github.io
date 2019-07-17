@@ -129,12 +129,12 @@
 				<td>All Mellow</td>
 				<td>Almelo</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Jul, 6 2019</td>
 				<td>Tyykiblues</td>
 				<td>Helsinki, Finland</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Jul, 21 2019</td>
 				<td>Bluesplein Eindhoven</td>
 				<td>Eindhoven</td>
@@ -157,7 +157,7 @@
 			<tr>
 				<td>Aug, 16 2019</td>
 				<td>Zebrafestival</td>
-				<td>Gemenrt</td>
+				<td>Gemert</td>
 			</tr>
 			<tr>
 				<td>Aug, 17 2019</td>
