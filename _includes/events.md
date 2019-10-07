@@ -134,7 +134,7 @@
 				<td>Tyykiblues</td>
 				<td>Helsinki, Finland</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Jul, 21 2019</td>
 				<td>Bluesplein Eindhoven</td>
 				<td>Eindhoven</td>
@@ -183,11 +183,21 @@
 				<td>Sept, 28&29 2019</td>
 				<td>Volcanic Blues Festival</td>
 				<td>Le mont-dore (Fr)</td>
-						</tr>
-			<tr>
+			</tr>
+			<tr id="view">
 				<td>Okt, 20 2019</td>
 				<td>Grenswerksessie</td>
-				<td>More info soon</td>
+				<td>Poppodium Grenswerk, Venlo</td>
+			</tr>
+			<tr>
+				<td>Okt, 31 2019</td>
+				<td>Musikhuset Dexter</td>
+				<td>Odense (Dk)</td>
+			</tr>
+			<tr>
+				<td>Nov, 1 2019</td>
+				<td>Göteborgs Bluesförening</td>
+				<td>Göteborg(Se)</td>
 			</tr>
 			<tr>
 				<td>Nov, 9 2019</td>
@@ -198,6 +208,36 @@
 				<td>Nov, 10 2019</td>
 				<td>Support Kat Riggins, ECI</td>
 				<td>Roermond</td>
+			</tr>
+			<tr>
+				<td>Nov, 30 2019</td>
+				<td>Blues & Brews</td>
+				<td>Drachten</td>
+			</tr>
+			<tr>
+				<td>Jan, 10 2020</td>
+				<td>Entree 2020</td>
+				<td>Effenaar</td>
+			</tr>
+			<tr>
+				<td>Jan, 11 2020</td>
+				<td>HKC Zwartsluis</td>
+				<td>Zwartsluis</td>
+			</tr>
+			<tr>
+				<td>Mar, 20 2020</td>
+				<td>Scala Bielefeld</td>
+				<td>Bielefeld (De)</td>
+			</tr>
+			<tr>
+				<td>Apr, 18 2020</td>
+				<td>EBC</td>
+				<td>Zaandam</td>
+			</tr>
+			<tr>
+				<td>Jan, 28 2020</td>
+				<td>Theater de Weijer</td>
+				<td>Boxmeer</td>
 			</tr>
 		</tbody>
 	</table>
