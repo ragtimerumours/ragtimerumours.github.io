@@ -184,12 +184,12 @@
 				<td>Volcanic Blues Festival</td>
 				<td>Le mont-dore (Fr)</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Okt, 20 2019</td>
 				<td>Grenswerksessie</td>
 				<td>Poppodium Grenswerk, Venlo</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Okt, 31 2019</td>
 				<td>Musikhuset Dexter</td>
 				<td>Odense (Dk)</td>
@@ -208,16 +208,6 @@
 				<td>Nov, 10 2019</td>
 				<td>Support Kat Riggins, ECI</td>
 				<td>Roermond</td>
-			</tr>
-			<tr>
-				<td>Nov, 30 2019</td>
-				<td>Blues & Brews</td>
-				<td>Drachten</td>
-			</tr>
-			<tr>
-				<td>Jan, 10 2020</td>
-				<td>Entree 2020</td>
-				<td>Effenaar</td>
 			</tr>
 			<tr>
 				<td>Jan, 11 2020</td>
