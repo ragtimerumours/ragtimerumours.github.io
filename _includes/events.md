@@ -210,6 +210,11 @@
 				<td>Roermond</td>
 			</tr>
 			<tr>
+				<td>Nov, 24 2019</td>
+				<td>TomTom</td>
+				<td>Heythuysen</td>
+			</tr>
+			<tr>
 				<td>Jan, 11 2020</td>
 				<td>HKC Zwartsluis</td>
 				<td>Zwartsluis</td>
