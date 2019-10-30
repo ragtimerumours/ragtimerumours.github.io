@@ -215,6 +215,16 @@
 				<td>Heythuysen</td>
 			</tr>
 			<tr>
+				<td>Nov, 30 2019</td>
+				<td>Blues & Brews</td>
+				<td>Iduna, Drachten</td>
+			</tr>
+			<tr>
+				<td>Dec, 13 2019</td>
+				<td>EP RELEASE Rockstation</td>
+				<td>Reuver</td>
+			</tr>
+			<tr>
 				<td>Jan, 11 2020</td>
 				<td>HKC Zwartsluis</td>
 				<td>Zwartsluis</td>
