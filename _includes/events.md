@@ -189,7 +189,7 @@
 				<td>Grenswerksessie</td>
 				<td>Poppodium Grenswerk, Venlo</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Okt, 31 2019</td>
 				<td>Musikhuset Dexter</td>
 				<td>Odense (Dk)</td>
@@ -219,15 +219,25 @@
 				<td>Blues & Brews</td>
 				<td>Iduna, Drachten</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Dec, 13 2019</td>
 				<td>EP RELEASE Rockstation</td>
 				<td>Reuver</td>
 			</tr>
 			<tr>
+				<td>Jan, 10 2020</td>
+				<td>Entree Effenaar</td>
+				<td>Eindhoven</td>
+			</tr>
+			<tr>
 				<td>Jan, 11 2020</td>
 				<td>HKC Zwartsluis</td>
 				<td>Zwartsluis</td>
+			</tr>
+			<tr>
+				<td>Mar, 14 2020</td>
+				<td>Support De Baron, Brebl</td>
+				<td>Nijmegen</td>
 			</tr>
 			<tr>
 				<td>Mar, 20 2020</td>
