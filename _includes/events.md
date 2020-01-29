@@ -9,220 +9,26 @@
 			</tr>
 		</thead>
 		<tbody>
-						<tr>
-				<td>Jan 4,5 2019</td>
-				<td>Hell</td>
-				<td>Norway</td>
-			</tr>
 			<tr>
-				<td>Jan 11 2019</td>
-				<td>Vadia Brewpub</td>
-				<td>Oliveir de azemeis (Pt)</td>
-			</tr>
-			<tr>
-				<td>Jan 12, 2019</td>
-				<td>Auditorio Forum</td>
-				<td>Baixa da Banheira (Pt)</td>
-			</tr>
-			<tr>
-				<td>Jan 17, 2019</td>
-				<td>Dog's Bollocks</td>
-				<td>Groningen</td>
-			</tr>
-			<tr>
-				<td>Jan 18, 2019</td>
-				<td>De Amer Theater</td>
-				<td>Amen</td>
-			</tr>
-			<tr>
-				<td>Jan 19, 2019</td>
-				<td>Huisconcert</td>
-				<td>Castenray</td>
-			</tr>
-			<tr>
-				<td>Feb 2, 2019</td>
-				<td>De Floeren Aap</td>
-				<td>[CANCELED]</td>
-			</tr>
-			<tr>
-				<td>Feb 8, 2019</td>
-				<td>Vasco Haarsnijderij</td>
-				<td>Roermond</td>
-				</tr>
-			<tr>
-				<td>Feb 16, 2019</td>
-				<td>Café TomTom</td>
-				<td>Heythuysen</td>
-			</tr>
-			<tr>
-				<td>Feb 22, 2019</td>
-				<td>Bluesfestival</td>
-				<td>Delft</td>
-			</tr>
-			<tr>
-				<td>Mrt 1, 2019</td>
-				<td>Verein Cultur</td>
-				<td>Bielefeld (De)</td>
-			</tr>
-			<tr>
-				<td>Mrt 2, 2019</td>
-				<td>Hageland Blues&Roots night</td>
-				<td>Glabbeek (Be)</td>
-			</tr>
-			<tr>
-				<td>Mrt 15, 2019</td>
-				<td>Café de Floeren Aap</td>
-				<td>Mechelen</td>
-			</tr>
-			<tr>
-				<td>Apr, 28 2019</td>
-				<td>De Lange Gang</td>
-				<td>Groenlo</td>
-			</tr>
-			<tr>
-				<td>Mai, 18 2019</td>
-				<td>Bluesfest eutin</td>
-				<td>Eutin (De)</td>
-			</tr>
-			<tr>
-				<td>Mai, 25 2019</td>
-				<td>DuvelBlues</td>
-				<td>Puurs (Be)</td>
-			</tr>
-			<tr>
-				<td>Mai, 26 2019</td>
-				<td>Bluessociëteit l'Esprit</td>
-				<td>Rotterdam</td>
-			</tr>
-			<tr>
-				<td>Mai, 30 2019</td>
-				<td>Mijl op 7 festival</td>
-				<td>Ospel</td>
-			</tr>
-			<tr>
-				<td>jun, 1 2019</td>
-				<td>Zwolle unlimited</td>
-				<td>Zwolle</td>
-			</tr>
-			<tr>
-				<td>jun, 2 2019</td>
-				<td>Breda Jazz</td>
-				<td>Breda</td>
-			</tr>
-			<tr>
-				<td>jun, 8 2019</td>
-				<td>L1</td>
-				<td>Onbekend</td>
-			</tr>
-			<tr>
-				<td>jun, 22 2019</td>
-				<td>KRUIT!</td>
-				<td>Nijmegen</td>
-			</tr>
-			<tr>
-				<td>jun, 28 2019</td>
-				<td>Gothenborg festival</td>
-				<td>Zweden</td>
-			</tr>
-			<tr>
-				<td>Jun, 29 2019</td>
-				<td>All Mellow</td>
-				<td>Almelo</td>
-			</tr>
-			<tr>
-				<td>Jul, 6 2019</td>
-				<td>Tyykiblues</td>
-				<td>Helsinki, Finland</td>
-			</tr>
-			<tr>
-				<td>Jul, 21 2019</td>
-				<td>Bluesplein Eindhoven</td>
-				<td>Eindhoven</td>
-			</tr>
-			<tr>
-				<td>Jul, 23 2019</td>
-				<td>Kobuci Kert</td>
-				<td>Budapest, Hongarije</td>
-			</tr>
-			<tr>
-				<td>Jul, 28 2019</td>
-				<td>Dorpsfeesten Neer</td>
-				<td>Neer</td>
-			</tr>
-			<tr>
-				<td>Aug, 10 2019</td>
-				<td>Petit Samois</td>
-				<td>Invite</td>
-			</tr>
-			<tr>
-				<td>Aug, 16 2019</td>
-				<td>Zebrafestival</td>
-				<td>Gemert</td>
-			</tr>
-			<tr>
-				<td>Aug, 17 2019</td>
-				<td>Open Air im Grüene</td>
-				<td>Bergdietikon (Ch)</td>
-			</tr>
-			<tr>
-				<td>Aug, 24 2019</td>
-				<td>Wild Rooster Festival</td>
-				<td>Den Haag</td>
-			</tr>
-			<tr>
-				<td>Aug, 25 2019</td>
-				<td>Schijt aan de grens</td>
-				<td>Venray</td>
-			</tr>
-			<tr>
-				<td>Sept, 6 2019</td>
-				<td>Festival PAS</td>
-				<td>Maastricht</td>
-			</tr>
-			<tr>
-				<td>Sept, 28&29 2019</td>
-				<td>Volcanic Blues Festival</td>
-				<td>Le mont-dore (Fr)</td>
-			</tr>
 			<tr id="view">
-				<td>Okt, 20 2019</td>
-				<td>Grenswerksessie</td>
-				<td>Poppodium Grenswerk, Venlo</td>
-			</tr>
-			<tr>
-				<td>Okt, 31 2019</td>
-				<td>Musikhuset Dexter</td>
-				<td>Odense (Dk)</td>
-			</tr>
-			<tr>
-				<td>Nov, 1 2019</td>
-				<td>Göteborgs Bluesförening</td>
-				<td>Göteborg(Se)</td>
-			</tr>
-			<tr>
-				<td>Nov, 9 2019</td>
-				<td>Honky-tonk bar</td>
-				<td>Dendermonde (Be)</td>
-			</tr>
-			<tr>
-				<td>Nov, 10 2019</td>
-				<td>Support Kat Riggins, ECI</td>
-				<td>Roermond</td>
-			</tr>
-			<tr>
-				<td>Nov, 30 2019</td>
-				<td>Blues & Brews</td>
-				<td>Drachten</td>
-			</tr>
-			<tr>
 				<td>Jan, 10 2020</td>
-				<td>Entree 2020</td>
-				<td>Effenaar</td>
+				<td>Entree Effenaar</td>
+				<td>Eindhoven</td>
 			</tr>
 			<tr>
 				<td>Jan, 11 2020</td>
 				<td>HKC Zwartsluis</td>
 				<td>Zwartsluis</td>
+			</tr>
+			<tr>
+				<td>Jan, 17 2020</td>
+				<td>Dogs Bollocks</td>
+				<td>Groningen</td>
+			</tr>
+			<tr>
+				<td>Mar, 14 2020</td>
+				<td>Support De Baron, Brebl</td>
+				<td>Nijmegen</td>
 			</tr>
 			<tr>
 				<td>Mar, 20 2020</td>
@@ -235,9 +41,41 @@
 				<td>Zaandam</td>
 			</tr>
 			<tr>
-				<td>Jan, 28 2020</td>
+				<td>May, 3 2020</td>
+				<td>Labadoux festival</td>
+				<td>Ingelmunster (Be)</td>
+			</tr>
+			<tr>
+				<td>may, 28 2020</td>
 				<td>Theater de Weijer</td>
 				<td>Boxmeer</td>
+			</tr>
+			<tr>
+				<td>Jun, 6 2020</td>
+				<td>Blues in Zyfflich</td>
+				<td>Zyfflich (De)</td>
+			</tr>
+			<tr>
+				<td>Jul, 11 2020</td>
+				<td>Sjock Festival</td>
+				<td>Lille (Be)</td>
+			
+			</tr>
+			<tr>
+				<td>Jul, 22-26 2020</td>
+				<td>Veszprem</td>
+				<td>Hongarije</td>
+			
+			</tr>
+			<tr>
+				<td>Aug, 1 2020</td>
+				<td>Zentrum für Z. Kunst</td>
+				<td>Berlin (De)</td>
+			</tr>
+			<tr>
+				<td>Sep, 12 2020</td>
+				<td>Sortie Blues</td>
+				<td>Oed-heverlee (Be)</td>
 			</tr>
 		</tbody>
 	</table>
