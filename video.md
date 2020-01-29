@@ -57,6 +57,14 @@ nav-menu: true
             <div class="4u"><span class="image fit"><img src="assets/images/trr.jpg" alt="" /></span></div>
             <div class="4u"><span class="image fit"><img src="assets/images/zomerparkfeest.jpg" alt="" /></span></div>
             <div class="4u$"><span class="image fit"><img src="assets/images/band_cl2.png" alt="" /></span></div>
+            <!-- Break -->
+            <div class="4u"><span class="image fit"><img src="assets/images/band2_2019.jpg" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="assets/images/sjaak_2019.jpg" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="assets/images/band_2019.jpg" alt="" /></span></div>
+            <!-- Break -->
+            <div class="4u"><span class="image fit"><img src="assets/images/tom_2019.jpg" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="assets/images/niki_2019.jpg" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="assets/images/thimo_2019.jpg" alt="" /></span></div>
         </div>
     </div>
 </section>
