@@ -56,6 +56,11 @@
 				<td>Zaandam</td>
 			</tr>
 			<tr>
+				<td>Apr, 19 2020</td>
+				<td>De Stemming</td>
+				<td>L1 radio</td>
+			</tr>
+			<tr>
 				<td>Apr, 24 2020</td>
 				<td>mieV</td>
 				<td>Geislingen</td>
