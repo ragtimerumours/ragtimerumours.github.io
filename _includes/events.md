@@ -114,7 +114,11 @@
 				<td>Jul, 11 2020</td>
 				<td>Sjock Festival</td>
 				<td>Lille (Be)</td>
-			
+			</tr>
+			<tr>
+				<td>Jul, 21 2020</td>
+				<td>Sommerbühne</td>
+				<td>Vienne (At)</td>
 			</tr>
 			<tr>
 				<td>Jul, 22-26 2020</td>
