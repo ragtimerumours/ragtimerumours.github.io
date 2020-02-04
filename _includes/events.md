@@ -63,7 +63,7 @@
 			<tr>
 				<td>Apr, 24 2020</td>
 				<td>mieV</td>
-				<td>Geislingen</td>
+				<td>Geislingen (de)</td>
 			</tr>
 			<tr>
 				<td>Apr, 25 2020</td>
@@ -73,7 +73,7 @@
 			<tr>
 				<td>Apr, 28 2020</td>
 				<td>Explosiv Bar</td>
-				<td>Graz (AT)</td>
+				<td>Graz (At)</td>
 						</tr>
 			<tr>
 				<td>Apr, 30 2020</td>
@@ -123,7 +123,7 @@
 			<tr>
 				<td>Jul, 22-26 2020</td>
 				<td>Veszprem</td>
-				<td>Hongarije</td>
+				<td>Veszprem (Hu)</td>
 			
 			</tr>
 			<tr>
