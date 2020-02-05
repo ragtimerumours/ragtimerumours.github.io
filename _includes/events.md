@@ -10,7 +10,7 @@
 		</thead>
 		<tbody>
 			<tr>
-			<tr id="view">
+			<tr>
 				<td>Jan, 10 2020</td>
 				<td>Entree Effenaar</td>
 				<td>Eindhoven</td>
@@ -25,7 +25,7 @@
 				<td>Dogs Bollocks</td>
 				<td>Groningen</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Mar, 7 2020</td>
 				<td>Tinus</td>
 				<td>Panningen</td>
