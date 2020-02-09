@@ -61,9 +61,14 @@
 				<td>L1 radio</td>
 			</tr>
 			<tr>
+				<td><b><u>Apr, 23 2020</u></b></td>
+				<td><b><u>Release Show, Grenswerk</u></b></td>
+				<td><b><u>Venlo</u></b></td>
+			</tr>
+			<tr>
 				<td>Apr, 24 2020</td>
 				<td>mieV</td>
-				<td>Geislingen (de)</td>
+				<td>Geislingen (De)</td>
 			</tr>
 			<tr>
 				<td>Apr, 25 2020</td>
