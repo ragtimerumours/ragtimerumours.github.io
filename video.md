@@ -47,7 +47,7 @@ nav-menu: true
             <div class="4u$"><span class="image fit"><img src="assets/images/thimo_2019.jpg" alt="" /></span></div>
             <!-- Break -->
             <div class="4u"><span class="image fit"><img src="assets/images/timo_tom.jpg" alt="" /></span></div>
-            <div class="4u"><span class="image fit"><img src="assets/images/band2018.jpg" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="assets/images/portret.jpg" alt="" /></span></div>
             <div class="4u$"><span class="image fit"><img src="assets/images/sjaak_2019.jpg" alt="" /></span></div>
             <!-- Break -->
             <div class="4u"><span class="image fit"><img src="assets/images/street.jpg" alt="" /></span></div>
