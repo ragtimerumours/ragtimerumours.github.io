@@ -18,17 +18,17 @@ author: null
                 </audio>
         </div>
     </div>
-
+    
     <div class="3u 12u$(xsmall)">
         <div class="audioplay-object">
-            Ain't Nobody
+            Yummy & Steve
             <div class="audioplay-button"></div>
-                <audio class="audioplay-player" data-apmode="playpause" data-apskin="classic" data-apstarttime="0" data-apfadeintime="3000" data-apwidth="30px" data-apheight="30px" data-aploop="no" preload="none">
-                    <source src="assets/media/aintnobody.mp3" />
-                    <source src="assets/media/aintnobody.ogg" />
+                <audio class="audioplay-player" data-apmode="playpause" data-apskin="classic" data-apstarttime="0" data-apfadeintime="3000" data-apwidth="30px" data-apheight="30px" data-aploop="yes" preload="none">
+                    <source src="assets/media/yummy_steve.mp3" />
+                    <source src="assets/media/yummy_steve.ogg" />
                     Your browser doesn't support &lt;audio&gt; element.
                 </audio>
-            </div>
+        </div>
     </div>
     
     <div class="3u 12u$(xsmall)">
@@ -42,18 +42,19 @@ author: null
                 </audio>
         </div>
     </div>
-    
-    <div class="3u$ 12u$(xsmall)">
+
+    <div class="3u 12u$(xsmall)">
         <div class="audioplay-object">
-            Faker
+            Ain't Nobody
             <div class="audioplay-button"></div>
                 <audio class="audioplay-player" data-apmode="playpause" data-apskin="classic" data-apstarttime="0" data-apfadeintime="3000" data-apwidth="30px" data-apheight="30px" data-aploop="no" preload="none">
-                    <source src="assets/media/faker.mp3" />
-                    <source src="assets/media/faker.ogg" />
+                    <source src="assets/media/aintnobody.mp3" />
+                    <source src="assets/media/aintnobody.ogg" />
                     Your browser doesn't support &lt;audio&gt; element.
                 </audio>
             </div>
     </div>
+    
 </div>
 
             

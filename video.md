@@ -1,7 +1,7 @@
 ---
 title: Media Selection
 layout: video
-image: assets/images/pic13a.jpg
+image: assets/images/koffers_op_boot.jpg
 nav-menu: true
 ---
 
@@ -42,29 +42,26 @@ nav-menu: true
 <section id="two">
     <div class="box alt" id="images">
         <div class="row 50% uniform">
+            <div class="4u"><span class="image fit"><img src="assets/images/tom_2019.jpg" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="assets/images/niki_2019.jpg" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="assets/images/thimo_2019.jpg" alt="" /></span></div>
+            <!-- Break -->
             <div class="4u"><span class="image fit"><img src="assets/images/timo_tom.jpg" alt="" /></span></div>
-            <div class="4u"><span class="image fit"><img src="assets/images/tom_niki.jpg" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="assets/images/sjaak.jpg" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="assets/images/band2018.jpg" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="assets/images/sjaak_2019.jpg" alt="" /></span></div>
             <!-- Break -->
             <div class="4u"><span class="image fit"><img src="assets/images/street.jpg" alt="" /></span></div>
-            <div class="4u"><span class="image fit"><img src="assets/images/band_cl1.png" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="assets/images/blues_challenge.jpg" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="assets/images/band_2019.jpg" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="assets/images/band2_2019.jpg" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="assets/images/street2.jpg" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="assets/images/street3.jpg" alt="" /></span></div>
             <div class="4u"><span class="image fit"><img src="assets/images/bar_bw.jpg" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="assets/images/timo_c.jpg" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="assets/images/persfoto.png" alt="" /></span></div>
             <!-- Break -->
             <div class="4u"><span class="image fit"><img src="assets/images/trr.jpg" alt="" /></span></div>
             <div class="4u"><span class="image fit"><img src="assets/images/zomerparkfeest.jpg" alt="" /></span></div>
             <div class="4u$"><span class="image fit"><img src="assets/images/band_cl2.png" alt="" /></span></div>
-            <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="assets/images/band2_2019.jpg" alt="" /></span></div>
-            <div class="4u"><span class="image fit"><img src="assets/images/sjaak_2019.jpg" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="assets/images/band_2019.jpg" alt="" /></span></div>
-            <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="assets/images/tom_2019.jpg" alt="" /></span></div>
-            <div class="4u"><span class="image fit"><img src="assets/images/niki_2019.jpg" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="assets/images/thimo_2019.jpg" alt="" /></span></div>
+            
         </div>
     </div>
 </section>
@@ -73,7 +70,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
         
-            <iframe class="media-audio" src="https://open.spotify.com/embed?uri=spotify:playlist:4YCbeKr4MgNXKfScl9dekg" width="300" height="340" frameborder="0" allowtransparency="true"></iframe>
+            <iframe class="media-audio" src="https://open.spotify.com/embed?uri=spotify:playlist:0SlG8sA4ukoHbdpIHNpUnd" width="300" height="340" frameborder="0" allowtransparency="true"></iframe>
 
 	</div>
 </section>
