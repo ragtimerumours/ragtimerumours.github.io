@@ -101,6 +101,11 @@
 				<td>Boxmeer</td>
 			</tr>
 			<tr>
+				<td>may, 29-31 2020</td>
+				<td>Bautzener Frühling</td>
+				<td>Bautzen (Be)</td>
+			</tr>
+			<tr>
 				<td>Jun, 6 2020</td>
 				<td>Blues in Zyfflich</td>
 				<td>Zyfflich (De)</td>
