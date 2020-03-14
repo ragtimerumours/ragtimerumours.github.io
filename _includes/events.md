@@ -33,22 +33,22 @@
 			<tr>
 				<td>Mar, 14 2020</td>
 				<td>Support De Baron, Brebl</td>
-				<td>Nijmegen</td>
+				<td>Nijmegen [CANCELED] </td>
 			</tr>
 			<tr>
 				<td>Mar, 20 2020</td>
 				<td>Scala Bielefeld</td>
-				<td>Bielefeld (De)</td>
+				<td>Bielefeld [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Apr, 16 2020</td>
 				<td>Pop 'n Rock Museum</td>
-				<td>Gronau (De)</td>
+				<td>Gronau [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Apr, 17 2020</td>
 				<td>Utopiastadt</td>
-				<td>Wuppertal (De)</td>
+				<td>Wuppertal [CANCELED] </td>
 			</tr>
 			<tr>
 				<td>Apr, 18 2020</td>
