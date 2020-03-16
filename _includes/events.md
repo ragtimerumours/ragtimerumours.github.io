@@ -48,7 +48,7 @@
 			<tr>
 				<td>Apr, 17 2020</td>
 				<td>Utopiastadt</td>
-				<td>Wuppertal [CANCELED] </td>
+				<td>Wuppertal</td>
 			</tr>
 			<tr>
 				<td>Apr, 18 2020</td>
