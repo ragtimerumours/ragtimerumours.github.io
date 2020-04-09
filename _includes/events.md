@@ -25,7 +25,7 @@
 				<td>Dogs Bollocks</td>
 				<td>Groningen</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Mar, 7 2020</td>
 				<td>Tinus</td>
 				<td>Panningen</td>
@@ -40,20 +40,20 @@
 				<td>Scala Bielefeld</td>
 				<td>Bielefeld [CANCELED]</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Apr, 16 2020</td>
 				<td>Pop 'n Rock Museum</td>
-				<td>Gronau [CANCELED]</td>
+				<td>Gronau [POSTPONED]</td>
 			</tr>
 			<tr>
 				<td>Apr, 17 2020</td>
 				<td>Utopiastadt</td>
-				<td>Wuppertal</td>
+				<td>Wuppertal [POSTPONED]</td>
 			</tr>
 			<tr>
 				<td>Apr, 18 2020</td>
 				<td>EBC</td>
-				<td>Zaandam</td>
+				<td>Zaandam [POSTPONED]</td>
 			</tr>
 			<tr>
 				<td>Apr, 19 2020</td>
@@ -63,52 +63,52 @@
 			<tr>
 				<td><b><u>Apr, 23 2020</u></b></td>
 				<td><b><u>Release Show, Grenswerk</u></b></td>
-				<td><b><u>Venlo</u></b></td>
+				<td><b><u>Venlo [POSTPONED]</u></b></td>
 			</tr>
 			<tr>
 				<td>Apr, 24 2020</td>
 				<td>mieV</td>
-				<td>Geislingen (De)</td>
+				<td>Geislingen (De) [POSTPONED]</td>
 			</tr>
 			<tr>
 				<td>Apr, 25 2020</td>
 				<td>Der Franziskaner</td>
-				<td>Bad Saulgau (De)</td>
+				<td>Bad Saulgau (De) [POSTPONED]</td>
 			</tr>
 			<tr>
 				<td>Apr, 28 2020</td>
 				<td>Explosiv Bar</td>
-				<td>Graz (At)</td>
+				<td>Graz (At) [POSTPONED]</td>
 						</tr>
 			<tr>
 				<td>Apr, 30 2020</td>
 				<td>Club Alpha 60</td>
-				<td>Schwäbisch Hall (De)</td>
+				<td>Schwäbisch Hall (De) [POSTPONED]</td>
 						</tr>
 			<tr>
 				<td>May, 3 2020</td>
 				<td>Labadoux festival</td>
-				<td>Ingelmunster (Be)</td>
+				<td>Ingelmunster (Be) [CANCELED]</td>
 						</tr>
 			<tr>
 				<td>May, 16 2020</td>
 				<td>Live in Reitwein Festival</td>
-				<td>Lebus (De)</td>
+				<td>Lebus (De) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>may, 28 2020</td>
 				<td>Theater de Weijer</td>
-				<td>Boxmeer</td>
+				<td>Boxmeer [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>may, 29-31 2020</td>
 				<td>Bautzener Frühling</td>
-				<td>Bautzen (Be)</td>
+				<td>Bautzen (Be) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Jun, 6 2020</td>
 				<td>Blues in Zyfflich</td>
-				<td>Zyfflich (De)</td>
+				<td>Zyfflich (De) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Jun, 26 2020</td>
