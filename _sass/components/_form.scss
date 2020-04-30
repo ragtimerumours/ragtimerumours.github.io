@@ -4,7 +4,7 @@
 		margin: 0 0 _size(element-margin) 0;
 
 		.field {
-			margin: 0 0 (_size(element-margin) * 1) 0;
+			margin: 0 0 (_size(element-margin) * 0.1) 0;
 
 			&.half {
 				width: 50%;
@@ -131,10 +131,11 @@
 		@include vendor('appearance', 'none');
 		display: block;
 		float: left;
-		margin-right: -2em;
+		margin-right: 0em;
 		opacity: 0;
 		width: 1em;
-		z-index: -1;
+		z-index: 0;
+        background-color: #eee;
 
 		& + label {
 			@include icon;

@@ -1,0 +1,45 @@
+
+.simplecart-total {
+  margin-bottom: 20px;
+  text-align: center;
+
+  @media (min-width: 800px) {
+    text-align: right;
+  }
+
+  p {
+    display: inline;
+  }
+
+}
+
+#checkoutcalculation {
+    background: rgba(255,255,255,0.2);
+    width: 90%;
+    border-radius: 0.25rem;
+    padding: 0.75rem 1rem 1rem;
+    text-align: right;
+    margin-bottom: 1rem;
+}
+#checkoutcalculation span {float: left;}
+#checkoutcalculation .sum {border-top: 0.1rem solid rgba(0,0,0,0.5); padding-top: 0.1rem; margin-top: 0.35rem;}
+
+#checkout_progress {display: block; text-align: center;}
+#checkout_progress li {width: 110px; text-align: left; display: inline-block; border-top: 1px solid #d3d3d3; padding-top: 8px;}
+#checkout_progress li.past {border-color: #00eb00;}
+#checkout_progress li:last-child {border: 0; width: 55px;}
+#checkout_progress li > span > * {
+    white-space: nowrap;
+    display: inline-block;
+    -ms-transform: translateX(-50%); /* IE 9 */
+    -webkit-transform: translateX(-50%); /* Chrome, Safari, Opera */
+    transform: translateX(-50%);
+}
+#checkout_progress li > *:before {position: absolute; margin: -15px 0 0 -8px; width: 11px; height: 11px; content: ""; 
+    border-radius: 99px; border: 2px solid white; 
+    box-shadow: 0px 0px 0.1px 1px #bbb; background: white;
+}
+#checkout_progress li.past > span:before,
+#checkout_progress li.current > span:before {box-shadow: 0px 0px 0.1px 1px #00eb00; background: #00eb00;}
+
+

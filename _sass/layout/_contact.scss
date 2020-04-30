@@ -2,7 +2,6 @@
 
 	#contact {
 		border-bottom: solid 1px _palette(border);
-		overflow-x: hidden;
 
 		> .inner {
 			@include vendor('display', 'flex');

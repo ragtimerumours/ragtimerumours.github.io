@@ -2,7 +2,7 @@
 <div id="wrapper">
 
 <!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "video" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "post" %} class="alt style2"{% endif %}{% if page.layout == "video" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<!--<a href="{{ "" | absolute_url }}/" class="logo"><img src="{{ site.baseurl }}/assets/images/logo.jpg" alt="{{ site.title }}" width="61"></a>-->
 	
 			<ul class="icons">
@@ -41,5 +41,8 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
+				<!--<li><a href="{{ site.baseurl }}/shop/" class="icon alt fa-shopping-bag" title="Webshop"><span class="label">Shop</span> 
+				<li><a href="{{ site.baseurl }}/cart/" class="icon fa fa-shopping-cart" title="Shopping Cart"> 
+				{% if 'simpleCart_quantity' != null %}(<span class="simpleCart_quantity"></span>){% endif %}</a></li>-->
 			</ul>
 </header>
