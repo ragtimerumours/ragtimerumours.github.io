@@ -41,8 +41,7 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
-				<!--<li><a href="{{ site.baseurl }}/shop/" class="icon alt fa-shopping-bag" title="Webshop"><span class="label">Shop</span> 
-				<li><a href="{{ site.baseurl }}/cart/" class="icon fa fa-shopping-cart" title="Shopping Cart"> 
-				{% if 'simpleCart_quantity' != null %}(<span class="simpleCart_quantity"></span>){% endif %}</a></li>-->
+				<li><a href="{{ site.baseurl }}/shop/" class="icon alt fa-shopping-bag" title="Webshop"><span class="label">Shop</span> 
+				<li><a href="{{ site.baseurl }}/cart/" id="cartlink" class="icon fa fa-shopping-cart" title="Shopping Cart"><span class="itemcount"></span></a></li>
 			</ul>
 </header>

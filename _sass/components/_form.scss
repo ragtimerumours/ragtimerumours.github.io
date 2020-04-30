@@ -128,11 +128,11 @@
 
 	input[type="checkbox"],
 	input[type="radio"], {
-		@include vendor('appearance', 'none');
+		@include vendor('appearance', 'normal');
 		display: block;
 		float: left;
 		margin-right: 0em;
-		opacity: 0;
+		opacity: 1;
 		width: 1em;
 		z-index: 0;
         background-color: #eee;
