@@ -15,7 +15,8 @@ nav-menu: true
 		<header class="major">
 			<h2>Many Thanks for your order!</h2>
 		</header>
-		<p>We will confirm we received your order as soon as possible, you'll receive an email within 48 hours.<br/>
+		<p>An automated response will be send to your provided email address with the details of your order.<br/>
+		A confirmation we received your order will be send as soon as possible.<br/>
 		Once the payment is received, another email will follow with the shipping information.</p>
 	</div>
 </section>
