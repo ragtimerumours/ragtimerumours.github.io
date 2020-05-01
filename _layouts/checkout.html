@@ -15,10 +15,12 @@
 
                     {{ content }}
                     
-                    <form action="https://formspree.io/{{ site.email }}" method="POST" onchange="setAddons(this)">
+                    <form action="https://formsubmit.co/{{ site.email }}" method="POST" onchange="setAddons(this)">
                     <!--<form action="/donate/paylink/" method="post" onchange="setAddons(this)">-->
                         <input name="_gotcha" style="display:none" type="text">
-                        <input name="_to" type="hidden" value="{{ site.email }}">
+                        <input name="_honey" style="display:none" type="text">
+                        <input type="hidden" name="_autoresponse" value="Copy of Order">
+                        <input name="_replyto" type="hidden" value="{{ site.email }}">
                         <input name="_subject" value="New order!" type="hidden">
                         <input name="ordernumber" value="" type="hidden">
 
@@ -80,7 +82,7 @@
 
                         <div class="submitbutton"><a href="/cart" class="gray">back to cart</a>&nbsp;&nbsp;
                             <input type="submit" value="Place the Order" onclick="setOrderNumber(this.parentNode.parentNode);" />
-                            <input type="hidden" name="_next" value="{{ site.url }}/order_send/" />
+                            <input type="hidden" name="_next" value="{{ site.url }}/order_send" />
                         </div>
 
                     </form>
