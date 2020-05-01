@@ -15,8 +15,8 @@
 
                     {{ content }}
                     
-                    <form action="https://formsubmit.co/{{ site.email }}" method="POST">
-                    <!--<form action="/donate/paylink/" method="post" onchange="setAddons(this)">-->
+                    <form action="https://formsubmit.co/{{ site.email }}" method="POST" onchange="setAddons(this)"/>
+                    <!--<form action="/paylink/" method="post" onchange="setAddons(this)">-->
                         <input name="_gotcha" style="display:none" type="text">
                         <input name="_honey" style="display:none" type="text">
                         <input type="hidden" name="_autoresponse" value="Copy of Order">
@@ -72,7 +72,7 @@
                         <div>
                             <label>Newsletter:</label>
                             <label><input type="radio" name="newsletter" value="no" required> No Subscription</label>
-                            <label><input type="radio" name="newsletter" data-title="Newsletter Subscribe" value="yes" data-price="2" required> Subscribe to Newsletter (max 4 x per year)</label>
+                            <label><input type="radio" name="newsletter" data-title="Newsletter Subscribe" value="yes" data-price="-0.02" required> Subscribe to Newsletter (max 4 x per year)</label>
                         </div>
 
                         <div>
@@ -87,18 +87,16 @@
 
                     </form>
                 </section>
-                <section class="split">
-                    <section style="bottom:2px; position:absolute;">
-                        <div>
-                            <label>Total Charge</label>
-                            <div id="checkoutcalculation">
-                                <span>Shopping cart: </span>€ 0.00
-                            </div>
-                            <p><em>To reduce costs, we are not engaging with a payment service, rather would ask you to wire the total to our Bank account directly:</p>
-                            <p>Once you submit this order, an email will be send to The Ragtime Rumours with the listed information. As soon as the payment is received, the order will be shipped to you.</em></p>
-                        </div>
-                    </section>
-                </section>
+                
+                <div>
+                    <label style="padding-top: 6rem;">Total Charge</label>
+                    <div id="checkoutcalculation">
+                        <span>Shopping cart: </span>€ 0.00
+                    </div>
+                    <p><em>To reduce costs, we are not engaging with a payment service, rather would ask you to wire the total to our Bank account directly:</p>
+                    <p>Once you submit this order, an email will be send to The Ragtime Rumours with the listed information. As soon as the payment is received, the order will be shipped to you.</em></p>
+                </div>
+                    
             </div>
 
 
