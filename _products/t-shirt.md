@@ -1,8 +1,5 @@
 ---
-//identifier: RZ-TS
 title: T-shirt
-price: '12.95'
-description: Ipsum dolor sit amet
 image: /assets/shop/pic17.jpg
 variant_type: size
 variants:

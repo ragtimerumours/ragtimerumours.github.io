@@ -69,8 +69,8 @@
 
                         <div>
                             <label>Gift wrapping:</label>
-                            <label><input type="radio" name="wrapped" value="no" required> Not gift wrapped</label>
-                            <label><input type="radio" name="wrapped" data-title="Gift wrapped" value="yes" data-price="2" required> Gift wrapped (+ &euro; 2.00)</label>
+                            <label><input type="radio" name="wrapped" value="no" required> No Subscription</label>
+                            <label><input type="radio" name="wrapped" data-title="Gift wrapped" value="yes" data-price="2" required> Subscribe to Newsletter (max 4 x per year)</label>
                         </div>
 
                         <div>
@@ -78,18 +78,20 @@
                             <textarea name="message"></textarea>
                         </div>
 
-                        <div class="submitbutton"><a href="/cart" class="gray">back to cart</a>&nbsp;&nbsp;<input type="submit" value="Proceed to payment" onclick="setOrderNumber(this.parentNode.parentNode);" /></div>
+                        <div class="submitbutton"><a href="/cart" class="gray">back to cart</a>&nbsp;&nbsp;<input type="submit" value="Place the Order" onclick="setOrderNumber(this.parentNode.parentNode);" /></div>
+                        <input type="hidden" name="_next" value="/docs/kcp_submit/" />
 
                     </form>
                 </section>
                 <section class="split">
                     <section style="bottom:2px; position:absolute;">
                         <div>
-                            <label >Payment total</label>
+                            <label>Total Charge</label>
                             <div id="checkoutcalculation">
                                 <span>Shopping cart: </span>€ 0.00
                             </div>
-                            <p><em>Payments are 100% secure and will be handled by Mollies Paylink service, called Plink. In the next screen you will be redirected to a secure checkout process on useplink.com.</em></p>
+                            <p><em>To reduce costs, we are not engaging with a payment service, rather would ask you to wire the total to our Bank account directly:</p>
+                            <p>Once you submit this order, an email will be send to The Ragtime Rumours with the listed information. As soon as the payment is received, the order will be shipped to you.</em></p>
                         </div>
                     </section>
                 </section>

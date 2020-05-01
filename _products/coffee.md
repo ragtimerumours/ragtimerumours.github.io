@@ -1,11 +1,6 @@
 ---
 title: Buy me a coffee
 image: "/assets/shop/t-shirt.jpg"
-images:
-- image: "/assets/images/t-shirt.jpg"
-- image: "/assets/images/t-shirt.jpg"
-- image: "/assets/images/t-shirt.jpg"
-- image: "/assets/images/t-shirt.jpg"
 variant_type: size
 variants:
 - name: tall
