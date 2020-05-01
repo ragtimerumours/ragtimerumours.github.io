@@ -6,8 +6,7 @@
     <body>
 
         {% include header.html %} 
-        
-        <section id="banner" class="style2">
+        <!--<section id="banner" class="style2">
             <div class="inner">
                 <span class="image">
                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
@@ -23,38 +22,31 @@
 
                 </div>
             </div>
-        </section>
-
-
+        </section>-->
         <section id="">
             <div class="tiles">
-                
-                
-                    {% assign products = site.products | sort: 'order_number' %}
-                    {% for product in products %}
-                    {% assign price_split = product.variants[0].price | round: 2 | split: "." %}
-                    {% assign integral = price_split[0] %}
-                    {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
-                    {% if fractional == '00' %}{% assign fractional = '-' %}{% endif %}
-                    <article>
-                        
-                            <span class="image">
-                                <img src="{{ product.image }}" alt="">
-                            </span>
-                    </article>        
-                    <article>
-                        
-                            <header class="">
-                                <h2 class="product__title">{{ product.title }}</h2>
-                                <p class="product__description">{{ product.content }}</p>
-                                <span>{% if product.variants[0].price > 0 %}&euro; {{ integral }}.{{ fractional }}{% else %}free{% endif %}</span>
-                                <div><a class="button special" href="{{ product.url }}">Select</a></div>
-                            </header>
-                        
-                    </article>
-                    {% endfor %}
-                
-                
+                {% assign products = site.products | sort: 'order_number' %}
+                {% for product in products %}
+                {% assign price_split = product.variants[0].price | round: 2 | split: "." %}
+                {% assign integral = price_split[0] %}
+                {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+                {% if fractional == '00' %}{% assign fractional = '-' %}{% endif %}
+                <article>
+                        <span class="image">
+                            <img src="{{ product.image }}" alt="">
+                        </span>
+                </article>        
+                <article>
+                    
+                        <header class="">
+                            <h2 class="product__title">{{ product.title }}</h2>
+                            <p class="product__description">{{ product.content }}</p>
+                            <span>{% if product.variants[0].price > 0 %}&euro; {{ integral }}.{{ fractional }}{% else %}free{% endif %}</span>
+                            <div><a class="button special" href="{{ product.url }}">Select</a></div>
+                        </header>
+                    
+                </article>
+                {% endfor %}
             </div>
         </section>
 
