@@ -68,7 +68,7 @@
                         </div>
 
                         <div>
-                            <label>Gift wrapping:</label>
+                            <label>Newsletter:</label>
                             <label><input type="radio" name="wrapped" value="no" required> No Subscription</label>
                             <label><input type="radio" name="wrapped" data-title="Gift wrapped" value="yes" data-price="2" required> Subscribe to Newsletter (max 4 x per year)</label>
                         </div>
@@ -78,8 +78,10 @@
                             <textarea name="message"></textarea>
                         </div>
 
-                        <div class="submitbutton"><a href="/cart" class="gray">back to cart</a>&nbsp;&nbsp;<input type="submit" value="Place the Order" onclick="setOrderNumber(this.parentNode.parentNode);" /></div>
-                        <input type="hidden" name="_next" value="/docs/kcp_submit/" />
+                        <div class="submitbutton"><a href="/cart" class="gray">back to cart</a>&nbsp;&nbsp;
+                            <input type="submit" value="Place the Order" onclick="setOrderNumber(this.parentNode.parentNode);" />
+                            <input type="hidden" name="_next" value="{{ site.url }}/order_send/" />
+                        </div>
 
                     </form>
                 </section>
