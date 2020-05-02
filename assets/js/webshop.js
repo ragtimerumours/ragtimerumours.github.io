@@ -262,7 +262,7 @@ function redirectToPayment(paymentlink) {
 }
 
 function emptyCart() {
-
+    
     localStorage.clear();
-
+    location.reload();
 }
