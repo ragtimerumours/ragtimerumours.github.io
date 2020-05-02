@@ -15,7 +15,7 @@ variants:
 - name: XL
   price: 16.00
   sku: t-xl
-order_number: 4
+order_number: 5
 ---
 
 High-quality t-shirt

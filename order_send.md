@@ -1,6 +1,6 @@
 ---
 title: Order Send
-layout: landing
+layout: order_send
 description: ''
 image: assets/images/koffers_op_boot.jpg
 nav-menu: true
@@ -18,7 +18,9 @@ nav-menu: true
 		<p>An automated response will be send to your provided email address with the details of your order.<br/>
 		A confirmation we received your order will be send as soon as possible.<br/>
 		Once the payment is received, another email will follow with the shipping information.</p>
+		<!--<button onclick="emptyCart()">Clear Shopping Cart</button>-->
 	</div>
 </section>
-
 </div>
+
+

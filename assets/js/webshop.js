@@ -260,3 +260,9 @@ function redirectToPayment(paymentlink) {
     var ordernumber = localStorage.getItem('ordernumber');
     document.location.href = paymentlink+'/'+checkoutcalculation+'/Order%20number%20'+ordernumber;
 }
+
+function emptyCart() {
+
+    localStorage.clear();
+
+}
