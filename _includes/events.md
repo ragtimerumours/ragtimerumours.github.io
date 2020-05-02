@@ -40,7 +40,7 @@
 				<td>Scala Bielefeld</td>
 				<td>Bielefeld [CANCELED]</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Apr, 16 2020</td>
 				<td>Pop 'n Rock Museum</td>
 				<td>Gronau [POSTPONED]</td>
@@ -84,13 +84,13 @@
 				<td>Apr, 30 2020</td>
 				<td>Club Alpha 60</td>
 				<td>Schwäbisch Hall (De) [POSTPONED]</td>
-						</tr>
+			</tr>
 			<tr>
 				<td>May, 3 2020</td>
 				<td>Labadoux festival</td>
 				<td>Ingelmunster (Be) [CANCELED]</td>
-						</tr>
-			<tr>
+			</tr>
+			<tr id="view">
 				<td>May, 16 2020</td>
 				<td>Live in Reitwein Festival</td>
 				<td>Lebus (De) [CANCELED]</td>
@@ -106,11 +106,21 @@
 				<td>Bautzen (Be) [CANCELED]</td>
 			</tr>
 			<tr>
+				<td>Jun, 5 2020</td>
+				<td>Porto Bluesfest</td>
+				<td>Porto (Pt) [POSTPONED]</td>
+			</tr>
+			<tr>
 				<td>Jun, 6 2020</td>
 				<td>Blues in Zyfflich</td>
 				<td>Zyfflich (De) [CANCELED]</td>
 			</tr>
 			<tr>
+				<td>Jun, 13 2020</td>
+				<td>Schaephuysen Heimspiel</td>
+				<td>Heimspiel (De) [POSTPONED]</td>
+			</tr>
+			<tr> 
 				<td>Jun, 26 2020</td>
 				<td>Gothenborg Blues</td>
 				<td>Gothenborg (Se)</td>
@@ -118,12 +128,12 @@
 			<tr>
 				<td>Jun, 27 2020</td>
 				<td>Watermuze festival</td>
-				<td>Zwartsluis</td>
+				<td>Zwartsluis [POSTPONED]</td>
 			</tr>
 			<tr>
 				<td>Jul, 11 2020</td>
 				<td>Sjock Festival</td>
-				<td>Lille (Be)</td>
+				<td>Lille (Be) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Jul, 21 2020</td>
@@ -134,12 +144,16 @@
 				<td>Jul, 22-26 2020</td>
 				<td>Veszprem</td>
 				<td>Veszprem (Hu)</td>
-			
+			</tr>
+			<tr>
+				<td>Jul, 31 2020</td>
+				<td>Wenduine</td>
+				<td>Wenduine (Be) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Aug, 1 2020</td>
 				<td>Zentrum für Z. Kunst</td>
-				<td>Syke (De)</td>
+				<td>Syke (De) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Sep, 12 2020</td>
