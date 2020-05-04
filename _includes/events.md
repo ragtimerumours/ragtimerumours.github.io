@@ -123,7 +123,7 @@
 			<tr> 
 				<td>Jun, 26 2020</td>
 				<td>Gothenborg Blues</td>
-				<td>Gothenborg (Se)</td>
+				<td>Gothenborg (Se) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Jun, 27 2020</td>
