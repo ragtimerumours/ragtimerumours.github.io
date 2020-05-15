@@ -1,6 +1,6 @@
 ---
 title: Love ’n Lust
-image: /assets/shop/cd.png
+image: /assets/shop/lust.png
 variant_type: format
 variants:
 - name: single
@@ -9,4 +9,5 @@ variants:
 order_number: 6
 ---
 
-Currently sold-out.
+Handmade single, limited edition.  
+(sold-out)

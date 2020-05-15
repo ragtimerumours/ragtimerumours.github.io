@@ -58,8 +58,10 @@
                             <label for="shipping">Shipping</label>
                             <select name="shipping" class="item_size" required onchange="if(this.value == 'NL') document.querySelector('input[name=\'country\']').value = 'The Netherlands'; else document.querySelector('input[name=\'country\']').value = ''">
                                 <option value=""></option>
-                                <option value="NL" data-title="Shipping NL" data-price="6.95">The Netherlands (+ &euro; 6.95)</option>
-                                <option value="EU" data-title="Shipping EU" data-price="17.5">European Union (+ &euro; 17.50)</option>
+                                <option value="Local" data-title="Local Pick-up" data-price="0">Local pick-up/Donation (+ &euro; 0.00)</option>
+                                <option value="NL" data-title="Shipping NL cd" data-price="5.00">CD Netherlands (incl. packaging) (+ &euro; 6.95)</option>
+                                <option value="NL" data-title="Shipping NL other" data-price="8.00">Clothing or Vinyl Netherlands (incl. packaging) (+ &euro; 6.95)</option>
+                                <option value="EU" data-title="Shipping EU" data-price="23.00">European Union (+ &euro; 23.00)</option>
                                 <option value="World" data-title="Shipping World" data-price="25">Rest of the world (+ &euro; 25.00)</option>
                             </select>
                         </div>

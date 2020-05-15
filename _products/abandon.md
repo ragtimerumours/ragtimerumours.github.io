@@ -1,16 +1,13 @@
 ---
 title: Abandon Ship
-image: /assets/shop/cd.png
+image: /assets/shop/abandon.jpg
 variant_type: format
 variants:
 - name: cd
   price: 15.00
   sku: abandon_cd
-- name: vinyl
-  price: 20.00
-  sku: abandon_vinyl
-order_number: 2
+order_number: 1
 ---
 
 Available as pre-order.
-Release will be soon! (depends a bit on corona).
+Release will be September 25.

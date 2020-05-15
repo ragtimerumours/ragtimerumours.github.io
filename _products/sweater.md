@@ -1,6 +1,6 @@
 ---
 title: Sweat Shirt
-image: "/assets/shop/t-shirt.jpg"
+image: "/assets/shop/shirt.jpg"
 variant_type: size
 variants:
 - name: small
@@ -15,7 +15,10 @@ variants:
 - name: XL
   price: 25.00
   sku: s-xl
-order_number: 1
+- name: XXL
+  price: 25.00
+  sku: s-xxl
+order_number: 4
 ---
 
 High quality and warm.

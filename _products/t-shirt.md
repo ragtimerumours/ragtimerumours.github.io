@@ -1,6 +1,6 @@
 ---
 title: T-shirt
-image: /assets/shop/pic17.jpg
+image: /assets/shop/t-shirt.jpg
 variant_type: size
 variants:
 - name: Small
@@ -10,12 +10,15 @@ variants:
   price: 15.00
   sku: t-medium
 - name: Large
-  price: 16.00
+  price: 15.00
   sku: t-large
 - name: XL
-  price: 16.00
+  price: 15.00
   sku: t-xl
-order_number: 5
+- name: XXL
+  price: 15.00
+  sku: t-xxl
+order_number: 2
 ---
 
 High-quality t-shirt

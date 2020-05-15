@@ -1,6 +1,6 @@
 ---
 title: Rag ’n Roll
-image: /assets/shop/cd.png
+image: /assets/shop/rag.jpg
 variant_type: format
 variants:
 - name: cd
@@ -9,7 +9,7 @@ variants:
 - name: vinyl
   price: 20.00
   sku: rag_download
-order_number: 3
+order_number: 5
 ---
 
-CD format only
+Debut Album. Vinyl and CD format.
