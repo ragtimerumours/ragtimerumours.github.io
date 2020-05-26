@@ -79,7 +79,7 @@
 				<td>Apr, 28 2020</td>
 				<td>Explosiv Bar</td>
 				<td>Graz (At) [POSTPONED]</td>
-						</tr>
+			</tr>
 			<tr>
 				<td>Apr, 30 2020</td>
 				<td>Club Alpha 60</td>
@@ -136,14 +136,19 @@
 				<td>Lille (Be) [CANCELED]</td>
 			</tr>
 			<tr>
+				<td>Jul, 19 2020</td>
+				<td>Grenswerk</td>
+				<td>Venlo</td>
+			</tr>
+			<tr>
 				<td>Jul, 21 2020</td>
 				<td>Sommerbühne</td>
-				<td>Vienne (At)</td>
+				<td>Vienne (At) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Jul, 22-26 2020</td>
 				<td>Veszprem</td>
-				<td>Veszprem (Hu)</td>
+				<td>Veszprem (Hu) [POSTPONED]</td>
 			</tr>
 			<tr>
 				<td>Jul, 31 2020</td>
@@ -153,12 +158,52 @@
 			<tr>
 				<td>Aug, 1 2020</td>
 				<td>Zentrum für Z. Kunst</td>
-				<td>Syke (De) [CANCELED]</td>
+				<td>Syke (De) [POSTPONED]</td>
+			</tr>
+			<tr>
+				<td>Aug, 18-29 2020</td>
+				<td>Veszprem</td>
+				<td>Vezprem (Hu)</td>
+			</tr>
+			<tr>
+				<td>Sep, 10 2020</td>
+				<td>Gronau</td>
+				<td>Gronau (De)</td>
+			</tr>
+			<tr>
+				<td>Sep, 11 2020</td>
+				<td>!!!Release Single!!!</td>
+				<td>Online concert</td>
 			</tr>
 			<tr>
 				<td>Sep, 12 2020</td>
 				<td>Sortie Blues</td>
 				<td>Oed-heverlee (Be)</td>
+			</tr>
+			<tr>
+				<td><b><u>Sept, 24 2020</u></b></td>
+				<td><b><u>Release Show, Grenswerk</u></b></td>
+				<td><b><u>Venlo</u></b></td>
+			</tr>
+			<tr>
+				<td>Sep, 25 2020</td>
+				<td>Official Release</td>
+				<td>Online</td>
+			</tr>
+			<tr>
+				<td>Oct, 1 2020</td>
+				<td>Explosiv Bar</td>
+				<td>Graz (At)</td>
+			</tr>
+			<tr>
+				<td>Oct, 2 2020</td>
+				<td>Vienna</td>
+				<td>Vienna (At)</td>
+			</tr>
+			<tr>
+				<td>Sept, 3 2020</td>
+				<td>Club Alpha 60</td>
+				<td>Schwäbisch Hall (De)</td>
 			</tr>
 		</tbody>
 	</table>
