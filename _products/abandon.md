@@ -9,5 +9,5 @@ variants:
 order_number: 1
 ---
 
-Available as pre-order.
+Available as pre-order.  
 Release will be September 25.
