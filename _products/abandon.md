@@ -6,6 +6,9 @@ variants:
 - name: cd
   price: 15.00
   sku: abandon_cd
+- name: vinyl
+  price: 20.00
+  sku: abandon_vinyl
 order_number: 1
 ---
 

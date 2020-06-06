@@ -8,7 +8,7 @@ variants:
   sku: rag_cd
 - name: vinyl
   price: 20.00
-  sku: rag_download
+  sku: rag__vinyl
 order_number: 5
 ---
 
