@@ -13,4 +13,5 @@ order_number: 1
 ---
 
 Available as pre-order.  
-Release will be September 25.
+Release will be September 25.  
+Vinyl and CD format.
