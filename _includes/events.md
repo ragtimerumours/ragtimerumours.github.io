@@ -90,7 +90,7 @@
 				<td>Labadoux festival</td>
 				<td>Ingelmunster (Be) [CANCELED]</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>May, 16 2020</td>
 				<td>Live in Reitwein Festival</td>
 				<td>Lebus (De) [CANCELED]</td>
@@ -135,7 +135,7 @@
 				<td>Sjock Festival</td>
 				<td>Lille (Be) [CANCELED]</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Jul, 19 2020</td>
 				<td>Grenswerk</td>
 				<td>Venlo</td>
@@ -161,9 +161,14 @@
 				<td>Syke (De) [POSTPONED]</td>
 			</tr>
 			<tr>
-				<td>Aug, 18-29 2020</td>
+				<td>Aug, 19-21 2020</td>
 				<td>Veszprem</td>
 				<td>Vezprem (Hu)</td>
+			</tr>
+			<tr>
+				<td>Aug, 26-29 2020</td>
+				<td>Szabadsag Square</td>
+				<td>Budapest (Hu)</td>
 			</tr>
 			<tr>
 				<td>Sep, 10 2020</td>
