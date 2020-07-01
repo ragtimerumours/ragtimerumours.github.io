@@ -136,6 +136,16 @@
 				<td>Lille (Be) [CANCELED]</td>
 			</tr>
 			<tr id="view">
+				<td>Jul, 3 2020</td>
+				<td>Brebl</td>
+				<td>Nijmegen</td>
+			</tr>
+			<tr>
+				<td>Jul, 11 2020</td>
+				<td>OZO-land</td>
+				<td>Hunsel</td>
+			</tr>
+			<tr>
 				<td>Jul, 19 2020</td>
 				<td>Grenswerk</td>
 				<td>Venlo</td>
