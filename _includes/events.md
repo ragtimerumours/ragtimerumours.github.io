@@ -135,7 +135,7 @@
 				<td>Sjock Festival</td>
 				<td>Lille (Be) [CANCELED]</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Jul, 3 2020</td>
 				<td>Brebl</td>
 				<td>Nijmegen</td>
@@ -170,15 +170,20 @@
 				<td>Zentrum für Z. Kunst</td>
 				<td>Syke (De) [POSTPONED]</td>
 			</tr>
-			<tr>
-				<td>Aug, 19-21 2020</td>
-				<td>Veszprem</td>
-				<td>Vezprem (Hu)</td>
+			<tr id="view">
+				<td>Aug, 20 2020</td>
+				<td>Den Bosch</td>
+				<td>Costa Del Silo</td>
 			</tr>
 			<tr>
-				<td>Aug, 26-29 2020</td>
-				<td>Szabadsag Square</td>
-				<td>Budapest (Hu)</td>
+				<td>Aug, 22 2020</td>
+				<td>Castenray</td>
+				<td>De muzikale huiskamer</td>
+			</tr>
+			<tr>
+				<td>Aug, 29&30 2020</td>
+				<td>Brunssum</td>
+				<td>Klimpark Brunssum</td>
 			</tr>
 			<tr>
 				<td>Sep, 10 2020</td>
@@ -192,8 +197,13 @@
 			</tr>
 			<tr>
 				<td>Sep, 12 2020</td>
-				<td>Sortie Blues</td>
-				<td>Oed-heverlee (Be)</td>
+				<td>Hoyerswerda</td>
+				<td>Hoerswerda (De)</td>
+			</tr>
+			<tr>
+				<td>Sep, 13 2020</td>
+				<td>Vasim</td>
+				<td>Nijmegen</td>
 			</tr>
 			<tr>
 				<td><b><u>Sept, 24 2020</u></b></td>
