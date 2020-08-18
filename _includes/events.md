@@ -181,11 +181,6 @@
 				<td>De muzikale huiskamer</td>
 			</tr>
 			<tr>
-				<td>Aug, 29&30 2020</td>
-				<td>Brunssum</td>
-				<td>Klimpark Brunssum</td>
-			</tr>
-			<tr>
 				<td>Sep, 10 2020</td>
 				<td>Gronau</td>
 				<td>Gronau (De)</td>
