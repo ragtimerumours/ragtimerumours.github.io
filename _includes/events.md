@@ -188,7 +188,7 @@
 			<tr>
 				<td>Sep, 11 2020</td>
 				<td>!!!Release Single!!!</td>
-				<td>Online concert</td>
+				<td>Online concert 19.30-20.00</td>
 			</tr>
 			<tr>
 				<td>Sep, 12 2020</td>
@@ -209,6 +209,16 @@
 				<td>Sep, 25 2020</td>
 				<td>Official Release</td>
 				<td>Online</td>
+			</tr>
+			<tr>
+				<td>Sep, 26 2020</td>
+				<td>Vasco Haarsnijderij</td>
+				<td>Roermond</td>
+			</tr>
+			<tr>
+				<td>Sep, 26 2020</td>
+				<td>Black mountain Blues</td>
+				<td>Luykgestel1</td>
 			</tr>
 			<tr>
 				<td>Oct, 1 2020</td>
