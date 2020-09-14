@@ -170,7 +170,7 @@
 				<td>Zentrum für Z. Kunst</td>
 				<td>Syke (De) [POSTPONED]</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Aug, 20 2020</td>
 				<td>Den Bosch</td>
 				<td>Costa Del Silo</td>
@@ -198,17 +198,12 @@
 			<tr>
 				<td>Sep, 13 2020</td>
 				<td>Vasim</td>
-				<td>Nijmegen</td>
+				<td>Nijmegen [Canceled]</td>
 			</tr>
-			<tr>
-				<td><b><u>Sept, 24 2020</u></b></td>
+			<tr id="view">
+				<td><b><u>Sept, 25 2020</u></b></td>
 				<td><b><u>Release Show, Grenswerk</u></b></td>
 				<td><b><u>Venlo</u></b></td>
-			</tr>
-			<tr>
-				<td>Sep, 25 2020</td>
-				<td>Official Release</td>
-				<td>Online</td>
 			</tr>
 			<tr>
 				<td>Sep, 26 2020</td>
@@ -221,14 +216,19 @@
 				<td>Luykgestel1</td>
 			</tr>
 			<tr>
+				<td>Sept, 27 2020</td>
+				<td>Den Bosch</td>
+				<td>Costa Del Silo</td>
+			</tr>
+			<tr>
 				<td>Oct, 1 2020</td>
 				<td>Explosiv Bar</td>
-				<td>Graz (At)</td>
+				<td>Graz (At) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Oct, 2 2020</td>
 				<td>Vienna</td>
-				<td>Vienna (At)</td>
+				<td>Vienna (At) [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Sept, 3 2020</td>
