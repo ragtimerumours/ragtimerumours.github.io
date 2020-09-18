@@ -231,9 +231,14 @@
 				<td>Vienna (At) [CANCELED]</td>
 			</tr>
 			<tr>
-				<td>Sept, 3 2020</td>
+				<td>Okt, 3 2020</td>
 				<td>Club Alpha 60</td>
 				<td>Schwäbisch Hall (De)</td>
+			</tr>
+			<tr>
+				<td>Okt, 4 2020</td>
+				<td>Cornée</td>
+				<td>Roermond</td>
 			</tr>
 		</tbody>
 	</table>
