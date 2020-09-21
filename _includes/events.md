@@ -212,7 +212,7 @@
 			</tr>
 			<tr>
 				<td>Sep, 26 2020</td>
-				<td>Black mountain Blues</td>
+				<td>Black mountain Blues [CANCELED]</td>
 				<td>Luykgestel1</td>
 			</tr>
 			<tr>
