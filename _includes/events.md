@@ -217,7 +217,7 @@
 			</tr>
 			<tr id="view">
 				<td><b><u>Oct, 4 2020</u></b></td>
-				<td><b><u>Cornée</u></b></td>
+				<td><b><u>Den Heilige Cornelius</u></b></td>
 				<td><b><u>Roermond</u></b></td>
 			</tr>
 			<tr>
