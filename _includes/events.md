@@ -200,7 +200,7 @@
 				<td>Vasim</td>
 				<td>Nijmegen [Canceled]</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td><b><u>Sept, 25 2020</u></b></td>
 				<td><b><u>Release Show, Grenswerk</u></b></td>
 				<td><b><u>Venlo</u></b></td>
@@ -215,10 +215,15 @@
 				<td>Black mountain Blues [CANCELED]</td>
 				<td>Luykgestel1</td>
 			</tr>
+			<tr id="view">
+				<td><b><u>Oct, 4 2020</u></b></td>
+				<td><b><u>Cornée</u></b></td>
+				<td><b><u>Roermond</u></b></td>
+			</tr>
 			<tr>
 				<td>Sept, 27 2020</td>
 				<td>Den Bosch</td>
-				<td>Costa Del Silo</td>
+				<td>Costa Del Silo [CANCELED]</td>
 			</tr>
 			<tr>
 				<td>Oct, 1 2020</td>
