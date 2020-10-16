@@ -215,11 +215,6 @@
 				<td>Black mountain Blues [CANCELED]</td>
 				<td>Luykgestel1</td>
 			</tr>
-			<tr id="view">
-				<td><b><u>Oct, 4 2020</u></b></td>
-				<td><b><u>Den Heilige Cornelius</u></b></td>
-				<td><b><u>Roermond</u></b></td>
-			</tr>
 			<tr>
 				<td>Sept, 27 2020</td>
 				<td>Den Bosch</td>
@@ -240,9 +235,9 @@
 				<td>Club Alpha 60</td>
 				<td>Schwäbisch Hall (De)</td>
 			</tr>
-			<tr>
+			<tr id="view">
 				<td>Okt, 4 2020</td>
-				<td>Cornée</td>
+				<td>Den Heilige Cornelius</td>
 				<td>Roermond</td>
 			</tr>
 		</tbody>
