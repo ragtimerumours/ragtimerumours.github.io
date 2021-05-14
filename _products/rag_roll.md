@@ -9,7 +9,7 @@ variants:
 - name: vinyl
   price: 20.00
   sku: rag_vinyl
-order_number: 5
+order_number: 6
 ---
 
 Debut Album. Vinyl and CD format.

@@ -1,18 +1,24 @@
 ---
-title: Buy me a coffee
-image: "/assets/shop/drink.jpg"
-variant_type: size
+title: Hard Luck
+image: "/assets/shop/hard_luck.jpg"
+variant_type: donation
 variants:
-- name: tall
+- name: 1 Euro
+  price: 1
+  sku: donate1
+- name: 2 1/2 Euros
   price: 2.5
-  sku: coffeetall
-- name: grande
-  price: 3.5
-  sku: coffeegrande
-- name: venti
-  price: 4.3
-  sku: coffeeventi
+  sku: donate2
+- name: 5 Euros
+  price: 5
+  sku: donate5
+- name: 10 Euros
+  price: 10
+  sku: donate10
+- name: 20 Euros
+  price: 20
+  sku: donate20
 order_number: 8
 ---
 
-A perfect coffee in the morning absolutely makes my day. Buy me a small one for a good start or a big one to keep going all day!
+If you’re willing to do a little donation we will thank you with our new live album (Download code), while we hope to have you as a physical audience soon!
