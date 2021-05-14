@@ -21,4 +21,4 @@ variants:
 order_number: 8
 ---
 
-If you’re willing to do a little donation we will thank you with our new live album (Download code), while we hope to have you as a physical audience soon!
+If you’re willing to do a small donation we will thank you with our new live album (Download code), while we hope to have you as a physical audience soon!
