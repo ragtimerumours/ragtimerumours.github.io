@@ -1,5 +1,5 @@
 ---
-title: Grenserk Sessions
+title: Grenswerk Sessions
 image: /assets/shop/grenswerk.jpg
 variant_type: format
 variants:
