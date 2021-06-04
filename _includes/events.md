@@ -241,14 +241,54 @@
 				<td>Roermond</td>
 			</tr>
 			<tr id="view">
-				<td>apr, 24 2021</td>
-				<td>Poppodium Volt</td>
-				<td>Sittard</td>			
+				<td>July, 18 2021</td>
+				<td>Roots Unlimited</td>
+				<td>Mheer (NL)</td>			
 			</tr>
 			<tr id="view">
-				<td>may, 6 2021</td>
-				<td>Kasteel Daelenbroeck</td>
-				<td>Herkenbosch</td>			
+				<td>July, 24 2021</td>
+				<td>Roots & Roses Festival</td>
+				<td>Lessines (BE)</td>		
+			</tr>
+			<tr id="view">
+				<td>July, 31 2021</td>
+				<td>OZO Land</td>
+				<td>Hunsel (NL)</td>			
+							</tr>
+			<tr id="view">
+				<td>August, 7 2021</td>
+				<td>Gartenkultur Muzikfestival</td>
+				<td>Syke (DE)</td>			
+							</tr>
+			<tr id="view">
+				<td>August, 21 2021</td>
+				<td>Watermuze Festival</td>
+				<td>Zwartsluis (DE)</td>			
+							</tr>
+			<tr id="view">
+				<td>September, 5 2021</td>
+				<td>Kult Kefee</td>
+				<td>Echt (NL)</td>			
+							</tr>
+			<tr id="view">
+				<td>September, 9 2021</td>
+				<td>Red Hat Society</td>
+				<td>Herkenbosch (NL)</td>			
+							</tr>
+			<tr id="view">
+				<td>September, 11 2021</td>
+				<td>Sortie Blues</td>
+				<td>Oud-Heverlee (BE)</td>			
+							</tr>
+			<tr id="view">
+				<td>September, 26 2021</td>
+				<td>Goezot In't Hofke</td>
+				<td>Oud-Turnhout (BE)</td>			
+							</tr>
+			<tr id="view">
+				<td>November, 5 2021</td>
+				<td>Volt</td>
+				<td>Sittard (NL)</td>			
 		</tbody>
 	</table>
 </div>
