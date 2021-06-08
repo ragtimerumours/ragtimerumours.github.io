@@ -263,7 +263,7 @@
 			<tr id="view">
 				<td>August, 21 2021</td>
 				<td>Watermuze Festival</td>
-				<td>Zwartsluis (DE)</td>			
+				<td>Zwartsluis (NL)</td>			
 							</tr>
 			<tr id="view">
 				<td>September, 5 2021</td>
