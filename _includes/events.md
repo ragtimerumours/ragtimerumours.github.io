@@ -278,7 +278,12 @@
 			<tr id="view">
 				<td>September, 11 2021</td>
 				<td>Sortie Blues</td>
-				<td>Oud-Heverlee (BE)</td>			
+				<td>Oud-Heverlee (BE)</td>	
+							</tr>
+			<tr id="view">
+				<td>September, 12 2021</td>
+				<td>Roots Unlimited</td>
+				<td>Mheer (NL)</td>			
 							</tr>
 			<tr id="view">
 				<td>September, 26 2021</td>
