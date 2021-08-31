@@ -266,11 +266,6 @@
 				<td>Zwartsluis (NL)</td>			
 							</tr>
 			<tr id="view">
-				<td>September, 5 2021</td>
-				<td>Kult Kefee</td>
-				<td>Echt (NL)</td>			
-							</tr>
-			<tr id="view">
 				<td>September, 9 2021</td>
 				<td>Red Hat Society</td>
 				<td>Herkenbosch (NL)</td>			
@@ -286,12 +281,22 @@
 				<td>Mheer (NL)</td>			
 							</tr>
 			<tr id="view">
+				<td>September, 18 2021</td>
+				<td>Maia Blues Fest</td>
+				<td>Maia (Pt)</td>			
+							</tr>
+			<tr id="view">
 				<td>September, 26 2021</td>
 				<td>Goezot In't Hofke</td>
 				<td>Oud-Turnhout (BE)</td>			
 							</tr>
 			<tr id="view">
-				<td>November, 5 2021</td>
+				<td>October, 2 2021</td>
+				<td>Caf'e/Zaal Meister</td>
+				<td>Geleen (NL)</td>			
+							</tr>
+			<tr id="view">
+				<td>November, 7 2021</td>
 				<td>Volt</td>
 				<td>Sittard (NL)</td>			
 		</tbody>
