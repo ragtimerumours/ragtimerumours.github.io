@@ -299,23 +299,28 @@
 				<td>November, 7 2021</td>
 				<td>Volt</td>
 				<td>Sittard (NL)</td>		
+							</tr>
 			<tr id="view">
 				<td>April, 24 2022</td>
 				<td>Brouwhuys De Lange Gang</td>
 				<td>Groenlo (NL)</td>		
+							</tr>
 			<tr id="view">
 				<td>May, 1 2022</td>
 				<td>Openluchttheater Velden</td>
 				<td>Velden (NL)</td>	
+							</tr>
 			<tr id="view">
 				<td>May, 8 2022</td>
 				<td>Labadoux</td>
 				<td>Ingelmunster (BE)</td>
 			<tr id="view">
+							</tr>
 				<td>July, 2 2022</td>
 				<td>Seia Jazz & Blues</td>
 				<td>Porto (PT)</td>		
 			<tr id="view">
+							</tr>
 				<td>July, 8 2022</td>
 				<td>Sjock Festival</td>
 				<td>Gierle (BE)</td>			
