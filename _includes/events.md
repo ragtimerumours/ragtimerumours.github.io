@@ -235,95 +235,96 @@
 				<td>Club Alpha 60</td>
 				<td>Schwäbisch Hall (De)</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>Okt, 4 2020</td>
 				<td>Den Heilige Cornelius</td>
 				<td>Roermond</td>
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>July, 18 2021</td>
 				<td>Roots Unlimited</td>
 				<td>Mheer (NL)</td>			
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>July, 24 2021</td>
 				<td>Roots & Roses Festival</td>
 				<td>Lessines (BE)</td>		
 			</tr>
-			<tr id="view">
+			<tr>
 				<td>July, 31 2021</td>
 				<td>OZO Land</td>
-				<td>Hunsel (NL)</td>			
-							</tr>
-			<tr id="view">
+				<td>Hunsel (NL)</td>
+			</tr>
+			<tr>
 				<td>August, 7 2021</td>
 				<td>Gartenkultur Muzikfestival</td>
-				<td>Syke (DE)</td>			
-							</tr>
-			<tr id="view">
+				<td>Syke (DE)</td>	
+			</tr>
+			<tr>
 				<td>August, 21 2021</td>
 				<td>Watermuze Festival</td>
-				<td>Zwartsluis (NL)</td>			
-							</tr>
-			<tr id="view">
+				<td>Zwartsluis (NL)</td>
+			</tr>
+			<tr>
 				<td>September, 9 2021</td>
 				<td>Red Hat Society</td>
-				<td>Herkenbosch (NL)</td>			
-							</tr>
-			<tr id="view">
+				<td>Herkenbosch (NL)</td>
+			</tr>
+			<tr>
 				<td>September, 11 2021</td>
 				<td>Sortie Blues</td>
-				<td>Oud-Heverlee (BE)</td>	
-							</tr>
-			<tr id="view">
+				<td>Oud-Heverlee (BE)</td>
+			</tr>
+			<tr>
 				<td>September, 12 2021</td>
 				<td>Roots Unlimited</td>
-				<td>Mheer (NL)</td>			
-							</tr>
-			<tr id="view">
+				<td>Mheer (NL)</td>
+			</tr>
+			<tr>
 				<td>September, 18 2021</td>
 				<td>Maia Blues Fest</td>
-				<td>Maia (Pt)</td>			
-							</tr>
-			<tr id="view">
+				<td>Maia (Pt)</td>
+			</tr>
+			<tr>
 				<td>September, 26 2021</td>
 				<td>Goezot In't Hofke</td>
-				<td>Oud-Turnhout (BE)</td>			
-							</tr>
-			<tr id="view">
+				<td>Oud-Turnhout (BE)</td>
+			</tr>
+			<tr>
 				<td>October, 2 2021</td>
 				<td>Caf'e/Zaal Meister</td>
-				<td>Geleen (NL)</td>			
-							</tr>
-			<tr id="view">
+				<td>Geleen (NL)</td>
+			</tr>
+			<tr>
 				<td>November, 7 2021</td>
 				<td>Volt</td>
-				<td>Sittard (NL)</td>		
-							</tr>
+				<td>Sittard (NL)</td>
+			</tr>
 			<tr id="view">
 				<td>April, 24 2022</td>
 				<td>Brouwhuys De Lange Gang</td>
-				<td>Groenlo (NL)</td>		
-							</tr>
-			<tr id="view">
+				<td>Groenlo (NL)</td>
+			</tr>
+			<tr>
 				<td>May, 1 2022</td>
 				<td>Openluchttheater Velden</td>
-				<td>Velden (NL)</td>	
-							</tr>
-			<tr id="view">
+				<td>Velden (NL)</td>
+			</tr>
+			<tr>
 				<td>May, 8 2022</td>
 				<td>Labadoux</td>
 				<td>Ingelmunster (BE)</td>
-			<tr id="view">
-							</tr>
+			</tr>
+			<tr>
 				<td>July, 2 2022</td>
 				<td>Seia Jazz & Blues</td>
-				<td>Porto (PT)</td>		
-			<tr id="view">
-							</tr>
+				<td>Porto (PT)</td>
+			</tr>
+			<tr>
 				<td>July, 8 2022</td>
 				<td>Sjock Festival</td>
-				<td>Gierle (BE)</td>			
+				<td>Gierle (BE)</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
