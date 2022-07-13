@@ -324,7 +324,59 @@
 				<td>July, 8 2022</td>
 				<td>Sjock Festival</td>
 				<td>Gierle (BE)</td>
+			</tr>		
+			<tr>
+				<td>July, 17 2022</td>
+				<td>Zomersessie Panningen (behind city hall)</td>
+				<td>Panningen (NL)</td>
 			</tr>
-		</tbody>
-	</table>
-</div>
+			<tr>
+				<td>July, 20 2022</td>
+				<td>Festival Veszprem</td>
+				<td>Veszprem (HU)</td>
+			</tr>
+			<tr>
+				<td>July, 21 2022</td>
+				<td>Festival Veszprem</td>
+				<td>Veszprem (HU)</td>
+			</tr>
+			<tr>
+				<td>July, 22 2022</td>
+				<td>Festival Veszprem</td>
+				<td>Veszprem (HU)</td>
+			</tr>
+						<tr>
+				<td>July, 23 2022</td>
+				<td>Festival Veszprem</td>
+				<td>Veszprem (HU)</td>
+			</tr>
+			<tr>
+				<td>July, 30 2022</td>
+				<td>Eurogames Nijmegen, Marienburgplein (in front of LUX)</td>
+				<td>Nijmegen (NL)</td>
+			</tr>
+			<tr>
+				<td>July, 30 2022</td>
+				<td>Mout Festival</td>
+				<td>Dordrecht (NL)</td>
+			</tr>
+			<tr>
+				<td>August, 6 2022</td>
+				<td>Campeerterrein De Lievelinge</td>
+				<td>Vuren (NL)</td>
+			</tr>
+			<tr>
+				<td>August, 12 2022</td>
+				<td>Scala Bielefeld</td>
+				<td>Bielefeld (DE)</td>
+			</tr>
+			<tr>
+				<td>September, 24 2022</td>
+				<td>Summerfall</td>
+				<td>Eindhoven (NL)</td>
+			</tr>
+			<tr>
+				<td>October, 15 2022</td>
+				<td>Blues In Wijk</td>
+				<td>Wijk Bij Duurstede (NL)</td>
+			</tr>
