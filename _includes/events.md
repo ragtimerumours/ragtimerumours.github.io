@@ -11,22 +11,18 @@
 		<tbody>
 			<tr>
 			<tr>
-				<td>Jun, 23 2023</td>
-				<td>De Kaaij</td>
-				<td>Nijmegen</td>
+				<td>Joct, 14 2023</td>
+				<td>Texel Blues</td>
+				<td>Texel</td>
 			</tr>
 			<tr>
-				<td>Jun, 24 2023</td>
-				<td>Bluegrass festival</td>
-				<td>Rotterdam</td>
+				<td>nov, 3 2023</td>
+				<td>Paerdsjtal</td>
+				<td>Offenbek, Reuver</td>
 			</tr>
 			<tr>
-				<td>Jun, 25 2023</td>
-				<td>Van Gogh Live</td>
-				<td>Zundert</td>
+				<td>dec, 30 2023</td>
+				<td>Afscheisconcert</td>
+				<td>Grenswerk, Venlo</td>
 			</tr>
-			<tr>
-				<td>Jul, 21 2023</td>
-				<td>Café Volt</td>
-				<td>Sittard</td>
-			</tr>
+			
