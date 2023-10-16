@@ -9,16 +9,21 @@
 			</tr>
 		</thead>
 		<tbody>
-			<tr>
-			<tr>
-				<td>Joct, 14 2023</td>
-				<td>Texel Blues</td>
-				<td>Texel</td>
 			</tr>
 			<tr>
 				<td>nov, 3 2023</td>
 				<td>Paerdsjtal</td>
 				<td>Offenbek, Reuver</td>
+			</tr>
+			<tr>
+				<td>nov, 24 2023</td>
+				<td>info volgt</td>
+				<td>Nijmegen</td>
+			</tr>
+			<tr>
+				<td>dec, 3 2023</td>
+				<td>Patronaat</td>
+				<td>Haarlem</td>
 			</tr>
 			<tr>
 				<td>dec, 30 2023</td>
