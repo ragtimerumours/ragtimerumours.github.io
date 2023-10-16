@@ -9,7 +9,6 @@
 			</tr>
 		</thead>
 		<tbody>
-			</tr>
 			<tr>
 				<td>nov, 3 2023</td>
 				<td>Paerdsjtal</td>
@@ -30,4 +29,6 @@
 				<td>Afscheidsconcert</td>
 				<td>Grenswerk, Venlo</td>
 			</tr>
-			
+		</tbody>
+	</table>
+</div>
