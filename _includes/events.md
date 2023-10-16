@@ -27,7 +27,7 @@
 			</tr>
 			<tr>
 				<td>dec, 30 2023</td>
-				<td>Afscheisconcert</td>
+				<td>Afscheidsconcert</td>
 				<td>Grenswerk, Venlo</td>
 			</tr>
 			
