@@ -16,7 +16,7 @@
 			</tr>
 			<tr>
 				<td>nov, 24 2023</td>
-				<td>info volgt</td>
+				<td>Ons Thuis</td>
 				<td>Nijmegen</td>
 			</tr>
 			<tr>
