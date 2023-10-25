@@ -15,6 +15,11 @@
 				<td>Offenbek, Reuver</td>
 			</tr>
 			<tr>
+				<td>nov, 10 2023</td>
+				<td>Statione Leopolda</td>
+				<td>Pisa, Italië</td>
+			</tr>
+			<tr>
 				<td>nov, 24 2023</td>
 				<td>Ons Thuis</td>
 				<td>Nijmegen</td>
